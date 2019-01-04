@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="one_call">Бесплатный период использования программы окончен. На данный момент в бесплатной версии программы возможна запись только одного звонка. Запись всех звонков доступна в платных версиях программы. Ваши старые записи разговоров не удалены. Данные файлы вы можете найти в папке "CALL_RECORDS" (по умолчанию) или другой указанной вами ранее папке.</string>
+    <string name="other_settings">Скрыть ярлыки</string>
+
+    <string name="up_priority">Повышает приоритет сервиса</string>
+    <string name="stroke_cond">Показывать уведомление</string>
+    <string name="pref_stroke_cond">уведомление в строке состояния</string>
+    <!--#######################################################################################-->
+    <string name="errorOfDisplay">Ошибка отображения</string>
+    <string name="errorTryFindFileOnSdcard">Проверьте, есть ли файл на вашей карте памяти</string>
+    <string name="pref_hard_menu">есть ли кновка меню</string>
+    <!--#######################################################################################-->
+    <!--#######################################################################################-->
+
+    <string name="pref_pro">хочет про версию?</string>
+    <string name="pro_version">Я не хочу покупать платную версию программы (Функции: пароль для входа, спрятать аудио файлы,
+        фото контактов, автоудаление, добавлять заметки к звонкам, ручной режим записи прямо во время разговора)</string>
+
+
+    <!--#######################################################################################-->
+
+
+    <string name="errorInitView">Файл не найден! Возможно он был удален.</string>
+
+    <string name="error">Ошибка установления формата или источника! Изменяю на:</string>
+    <string name="errorAllCrash">Ошибка! Возможно запись звонков невозможна на вашем устройстве!</string>
+
+
+    <string name="search">Поиск</string>
+    <string name="rate">Вы оценили приложение в Google Play?</string>
+    <string name="pref_rating">оценка</string>
+
+<!--#######################################################################################-->
+    <string name="pref_audioformat">формат_аудио</string>
+    <string name="pref_white_list">белый лист</string>
+    <string name="pref_white">вкл белый лист</string>
+
+    <string name="pref_black_list">черный лист</string>
+    <string name="pref_black">вкл черный лист</string>
+
+
+
+    <string name="filter">Фильтр звонков</string>
+
+    <string name="on_white_list">Включить белый список</string>
+    <string name="setting_white_list">Настроить белый список</string>
+
+    <string name="on_black_list">Включить черный список</string>
+    <string name="setting_black_list">Настроить черный список</string>
+
+
+
+    <string name="audioformat">Формат аудиофайла</string>
+    <string name="setaudioformat">Выбрать формат выходного аудиофайла</string>
+    <string name="changeaudioformat">Выберите формат выходного аудиофайла</string>
+
+    <string name="gp3format">3GPP</string>
+    <string name="mp4format">MPEG-4</string>
+    <string name="AMR_NBformat">AMR_NB</string>
+
+    <string name="writeToDeveloper">Написать разработчику</string>
+    <string name="send_to_dev">Отправка письма</string>
+    <string name="theme_message">Тема</string>
+
+
+ <!--#######################################################################################-->
+    <string name="app_name" textsize="6dp">Запись звонков</string>
+
+    <string name="callrecords">Записанные звонки</string>
+
+    <string name="settings">Настройки</string>
+
+    <string name="stateOfrecord">Состояние записи: </string>
+
+    <string name="sound">Выберите источник записи звука:</string>
+
+    <string name="voice">Линия (поддерживается не всеми моделями телефонов)</string>
+    <string name="mic">Микрофон (возможна плохая слышимость собеседника)</string>
+    <string name="comm">Аудио поток будет оптимизирован под VoIP</string>
+
+
+
+
+    <string name="open">Открыть</string>
+
+    <string name="delete">Удалить</string>
+    <string name="cancel">Отмена</string>
+    <string name="icon">Icon</string>
+    <string name="exit">Выход</string>
+
+    <string name="ist_rec_sound">Источник записи</string>
+    <string name="inst_ist_rec_sound">Устанавливает источник записи звука</string>
+    <string name="change_ist_rec_sound">Выберите источник записи звука</string>
+
+<!--#######################################################################################-->
+    <string name="emailSettings">Настройка шлюза</string>
+    <string name="email">Адрес шлюза</string>
+    <string name="emailaction">Адрес почтового ящика на gmail</string>
+    <string name="dialogemail">Введите адрес, с которого вам будут приходить сообщения</string>
+    <string name="emailpw">Пароль шлюза</string>
+    <string name="emailactionpw">Пароль от почтового ящика на gmail</string>
+    <string name="dialogemailpw">Введите пароль</string>
+    <string name="emaildest">Адресат</string>
+    <string name="emailactiondest">Ваш адрес электронной почты (можно адрес шлюза)</string>
+    <string name="dialogemaildest">Введите адрес, на который вам будут приходить сообщения</string>
+    <string name="emailkey">Пересылать на email?</string>
+
+    <string name="path">Местоположение файлов</string>
+    <string name="pathText">Выбрать папку</string>
+    <string name="pathText_manual">Указать путь вручную</string>
+
+    <string name="LangTitle">Язык</string>
+    <string name="LangDialogTitle">Выберите язык:</string>
+    <string name="LangSummary">Необходимо перезапустить приложение для принятия изменений</string>
+    <string name="langOfSystem">По умолчанию</string>
+
+    <string name="yesAnswer">Да</string>
+    <string name="noAnswer">Нет</string>
+    <string name="ok">Ок</string>
+    <string name="create_new_folder">Новая папка</string>
+    <string name="name_new_folder">Имя папки</string>
+    <string name="fail_create">Ошибка создания</string>
+
+    <string name="uplink">Запись только вашей речи</string>
+    <string name="downlink">Запись только речи собеседника</string>
+
+
+<!--#######################################################################################-->
+
+    <string name="langOfSystem_pref">default</string>
+
+    <string name="pref_pathview">pathview</string>
+    <string name="customPref">customPref</string>
+
+    <string name="pref_email">адрес мэйла</string>
+    <string name="pref_email_pw">пароль мэйла</string>
+    <string name="pref_email_dest">адрес мэйла на который слать</string>
+    <string name="pref_emailsettingskey">пересылать ли на мэйл</string>
+
+    <string name="deleteAll">Удалить все</string>
+    <string name="is_ServiceWork">Состояние записи</string>
+    <string name="pref_openmode">Режим открытия</string>
+    <string name="play_str">PLAY</string>
+    <string name="pause_str">PAUSE</string>
+
+
+</resources>
+

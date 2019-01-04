@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="javamail_function">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/habrahabr_MailApp/javamail_function/additionnal.jar!/" />
+      <root url="jar://$PROJECT_DIR$/habrahabr_MailApp/javamail_function/mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/habrahabr_MailApp/javamail_function/activation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/habrahabr_MailApp/javamail_function/mobclix.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

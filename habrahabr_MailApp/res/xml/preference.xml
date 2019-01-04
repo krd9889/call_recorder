@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+                 >
+
+
+  <!--  <CheckBoxPreference android:id="@+id/isServiceWorking"
+            android:title="Состояние записи:"
+            android:summary="Включает/выключает запись"
+            android:key="@string/is_ServiceWork"
+            android:layout_width="130dp"
+            android:layout_height="20dp"
+            android:dialogTitle="Состояние записи:"
+            android:layout_marginTop="-1dp"
+            android:checked="false"/>  -->
+
+
+    <PreferenceCategory
+            android:title="@string/settings">
+
+
+    <ListPreference
+            android:key="@string/pref_openmode"
+            android:title="@string/ist_rec_sound"
+            android:summary="@string/inst_ist_rec_sound"
+            android:defaultValue="@string/mic"
+            android:entries="@array/ist_sound"
+            android:entryValues="@array/ist_sound"
+            android:dialogTitle="@string/change_ist_rec_sound"
+
+            />
+
+
+        <ListPreference
+                android:key="@string/pref_audioformat"
+                android:title="@string/audioformat"
+                android:summary="@string/setaudioformat"
+                android:defaultValue="@string/AMR_NBformat"
+                android:entries="@array/formats"
+                android:entryValues="@array/formats"
+                android:dialogTitle="@string/changeaudioformat"
+
+                />
+
+
+        <ListPreference
+                android:key="lang"
+                android:title="@string/LangTitle"
+                android:summary="@string/LangSummary"
+                android:defaultValue="@string/langOfSystem_pref"
+                android:entries="@array/entries_lang"
+                android:entryValues="@array/entryvalues_lang"
+                android:dialogTitle="@string/LangDialogTitle" />
+
+
+        <CheckBoxPreference
+                android:key="@string/pref_stroke_cond"
+                android:title="@string/stroke_cond"
+                android:summary="@string/up_priority"
+                android:defaultValue="true"
+
+
+                />
+
+    </PreferenceCategory>
+
+
+    <PreferenceCategory
+            android:title="@string/filter">
+
+        <CheckBoxPreference
+                android:key="@string/pref_white"
+                android:title=""
+                android:summary="@string/on_white_list"
+                android:defaultValue="false"
+
+               />
+
+        <Preference
+                android:title=""
+                android:summary="@string/setting_white_list"
+                android:key="@string/pref_white_list"
+                android:dependency="@string/pref_white"/>
+
+
+        <CheckBoxPreference
+                android:key="@string/pref_black"
+                android:title=""
+                android:summary="@string/on_black_list"
+                android:defaultValue="false"
+                />
+
+        <Preference
+                android:title=""
+                android:summary="@string/setting_black_list"
+                android:key="@string/pref_black_list"
+                android:dependency="@string/pref_black"/>
+
+
+
+    </PreferenceCategory>
+
+
+    <PreferenceCategory
+            android:title="@string/path">
+
+        <Preference
+            android:title=""
+            android:summary="@string/pathText"
+            android:key="@string/customPref" />
+
+        <EditTextPreference
+                android:key="@string/pref_pathview"
+                android:title=""
+                android:summary="@string/pathText_manual"
+                android:defaultValue=""
+                android:dialogTitle=""
+               />
+
+
+
+    </PreferenceCategory>
+
+
+
+    <PreferenceCategory
+            android:title="@string/emailSettings">
+
+
+        <CheckBoxPreference
+                android:key="@string/pref_emailsettingskey"
+                android:title="@string/emailkey"
+                android:summary=""
+                android:defaultValue="false" />
+
+        <EditTextPreference
+                android:key="@string/pref_email"
+                android:title="@string/email"
+                android:summary="@string/emailaction"
+                android:defaultValue=""
+                android:dialogTitle="@string/dialogemail"
+                android:dependency="@string/pref_emailsettingskey"/>
+
+        <EditTextPreference
+                android:key="@string/pref_email_pw"
+                android:title="@string/emailpw"
+                android:summary="@string/emailactionpw"
+                android:defaultValue=""
+                android:dialogTitle="@string/dialogemailpw"
+                android:dependency="@string/pref_emailsettingskey"/>
+
+        <EditTextPreference
+                android:key="@string/pref_email_dest"
+                android:title="@string/emaildest"
+                android:summary="@string/emailactiondest"
+                android:defaultValue=""
+                android:dialogTitle="@string/dialogemaildest"
+                android:dependency="@string/pref_emailsettingskey"/>
+
+
+
+    </PreferenceCategory>
+
+                <PreferenceCategory
+                        android:title="@string/other_settings">
+
+                <CheckBoxPreference
+                        android:key="@string/pref_rating"
+                        android:title=""
+                        android:summary="@string/rate"
+                        android:defaultValue="false" />
+
+                <CheckBoxPreference
+                        android:key="@string/pref_pro"
+                        android:title=""
+                        android:summary="@string/pro_version"
+                        android:defaultValue="false" />
+
+                    <CheckBoxPreference
+                            android:key="@string/pref_mobile_security"
+                            android:title=""
+                            android:summary="@string/pro_version"
+                            android:defaultValue="false" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

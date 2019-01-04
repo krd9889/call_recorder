@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+              android:gravity="center"
+        >
+
+    <TextView android:id="@+id/widget_textview"
+              android:text="OFF"
+              android:textColor="@android:color/white"
+              android:background="@android:color/transparent"
+              android:layout_height="wrap_content"
+              android:layout_width="wrap_content"
+              android:layout_gravity="center_horizontal|center"
+              android:textStyle="bold"/>
+
+    <ImageButton
+            android:id="@+id/widget_button"
+
+            android:src = "@drawable/phone_blue"
+            android:layout_height="48dp"
+            android:layout_width="48dp"
+
+            android:layout_gravity="center_horizontal|center"
+            android:scaleType="fitCenter"
+            android:background="@android:color/transparent"/>
+
+
+
+    <TextView android:id="@+id/widget_textview"
+              android:text="Recorder"
+              android:textAlignment="gravity"
+              android:textColor="@android:color/white"
+              android:background="@android:color/transparent"
+              android:layout_height="wrap_content"
+              android:layout_width="wrap_content"
+              android:layout_gravity="center_horizontal|center"
+              android:singleLine="false"
+              android:textStyle="bold"/>
+
+    <FrameLayout
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:layout_gravity="left|center_vertical">
+    </FrameLayout>
+
+
+</LinearLayout>
+

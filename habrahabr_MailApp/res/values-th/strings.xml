@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="one_call">ฟรีสำหรับการใช้ระยะเวลาโปรแกรมที่มีมากกว่า ในขณะที่รุ่นฟรีของโปรแกรมที่สามารถบันทึกได้เพียงหนึ่งสาย บันทึกการโทรทั้งหมดที่มีอยู่ในรุ่นที่จ่ายของโปรแกรม บันทึกเก่าของการสนทนาของคุณจะไม่ถูกลบ ไฟล์เหล่านี้สามารถพบได้ในโฟลเดอร์ "CALL_RECORDS" (เริ่มต้น) หรือโฟลเดอร์ที่ระบุอื่น ๆ ที่คุณก่อนหน้านี้</string>
+    <string name="other_settings">ซ่อนลัด:</string>
+
+    <string name="up_priority">ยกความสำคัญของการให้บริการ</string>
+    <string name="stroke_cond">แสดงการแจ้งเตือน</string>
+    <string name="pref_stroke_cond">уведомление в строке состояния</string>
+    <!--#######################################################################################-->
+    <string name="errorOfDisplay">แสดงข้อผิดพลาด</string>
+    <string name="errorTryFindFileOnSdcard">ตรวจสอบว่ามีไฟล์บนการ์ดหน่วยความจำของคุณ</string>
+    <string name="pref_hard_menu">есть ли кновка меню</string>
+    <!--#######################################################################################-->
+    <string name="pref_pro">хочет про версию?</string>
+    <string name="pro_version">ฉันไม่ต้องการที่จะซื้อรุ่นจ่ายของโปรแกรม (ตัวเลือก: รหัสผ่านเข้าสู่ระบบซ่อนไฟล์เสียงการติดต่อภาพอัตโนมัติลบเพิ่มหมายเหตุโทรโหมดบันทึก, ใช้ในระหว่างการโทร)</string>
+
+
+    <!--#######################################################################################-->
+    <string name="errorInitView">ไม่พบแฟ้ม บางทีมันอาจจะถูกลบ</string>
+    <string name="error">ข้อผิดพลาดรูปแบบการจัดตั้งหรือแหล่งที่มา! ที่มีการเปลี่ยนแปลงไป:</string>
+    <string name="errorAllCrash">ข้อผิดพลาด! บางทีบันทึกการโทรเป็นไปไม่ได้บนอุปกรณ์ของคุณ!</string>
+
+    <string name="search">ค้นหา</string>
+    <string name="rate">คุณให้คะแนนใน App ของ Google Play?</string>
+    <string name="pref_rating">оценка</string>
+
+    <!--#######################################################################################-->
+
+    <string name="pref_audioformat">формат_аудио</string>
+    <string name="pref_white_list">белый лист</string>
+    <string name="pref_white">вкл белый лист</string>
+
+    <string name="pref_black_list">черный лист</string>
+    <string name="pref_black">вкл черный лист</string>
+
+
+
+    <string name="filter">โทรกรอง</string>
+
+    <string name="on_white_list">เปิดใช้งานรายการสีขาว</string>
+    <string name="setting_white_list">ปรับรายการสีขาว</string>
+
+    <string name="on_black_list">เปิดใช้งานบัญชีดำ</string>
+    <string name="setting_black_list">ปรับรายการสีดำ</string>
+
+
+
+    <string name="audioformat">รูปแบบไฟล์เสียง</string>
+    <string name="setaudioformat">เลือกเอาท์พุทไฟล์เสียงรูปแบบ</string>
+    <string name="changeaudioformat">เลือกรูปแบบของไฟล์เสียงที่เอาท์พุท</string>
+
+    <string name="gp3format">3GPP</string>
+    <string name="mp4format">MPEG-4</string>
+    <string name="AMR_NBformat">AMR_NB</string>
+
+    <string name="writeToDeveloper">พัฒนาอีเมล์</string>
+    <string name="send_to_dev">ส่งจดหมาย</string>
+    <string name="theme_message">พิมพ์</string>
+
+
+    <!--#######################################################################################-->
+
+
+    <string name="langOfSystem_pref">default</string>
+
+    <string name="pref_pathview">pathview</string>
+    <string name="customPref">customPref</string>
+
+    <string name="pref_email">адрес мэйла</string>
+    <string name="pref_email_pw">пароль мэйла</string>
+    <string name="pref_email_dest">адрес мэйла на который слать</string>
+    <string name="pref_emailsettingskey">пересылать ли на мэйл</string>
+
+    <string name="app_name" textsize="6dp">เรียกบันทึก</string>
+
+    <string name="callrecords">โทรที่บันทึกไว้</string>
+
+    <string name="settings">การตั้งค่า</string>
+
+    <string name="stateOfrecord">รัฐของการบันทึก:</string>
+
+    <string name="sound">เลือกแหล่งที่มาของการบันทึกเสียง:</string>
+
+    <string name="voice">การบันทึกการโทรโทรศัพท์จากบรรทัด (ไม่ได้รับการสนับสนุนโดยโทรศัพท์ทั้งหมด)</string>
+    <string name="mic">บันทึกโดยใช้ไมโครโฟนในตัว (อาจสหายเสียงไม่ดี)</string>
+    <string name="comm">กระแสข้อมูลเสียงจากไมโครโฟนจะถูก "ล็อค" สำหรับ VoIP (ถ้ามี))</string>
+
+
+
+    <string name="open">เปิด</string>
+
+    <string name="delete">ถอด</string>
+    <string name="cancel">การยกเลิก</string>
+    <string name="icon">Icon</string>
+    <string name="exit">เอาท์พุต</string>
+
+    <string name="ist_rec_sound">แหล่งที่มาของการบันทึกเสียง</string>
+    <string name="inst_ist_rec_sound">สร้างแหล่งที่มาของการบันทึกเสียง</string>
+    <string name="change_ist_rec_sound">เลือกแหล่งที่มาของการบันทึกเสียง</string>
+
+
+
+    <!--#######################################################################################-->
+    <string name="emailSettings">การกำหนดค่าเกตเวย์</string>
+    <string name="email">ที่อยู่เกตเวย์</string>
+    <string name="emailaction">ที่อยู่ตามตู้บน Gmail</string>
+    <string name="dialogemail">ป้อนที่อยู่ที่คุณจะได้รับข้อความ</string>
+    <string name="emailpw">ประตูรหัสผ่าน</string>
+    <string name="emailactionpw">รหัสผ่านสำหรับกล่องจดหมาย Gmail</string>
+    <string name="dialogemailpw">ใส่รหัสผ่าน</string>
+    <string name="emaildest">ปลายทาง</string>
+    <string name="emailactiondest">ที่อยู่อีเมลของคุณ (อาจอยู่เกตเวย์)</string>
+    <string name="dialogemaildest">ป้อนที่อยู่ที่คุณจะได้รับข้อความ</string>
+    <string name="emailkey">ส่งต่อไปยังอีเมล?</string>
+
+    <string name="path">ที่อยู่ของไฟล์</string>
+    <string name="pathText">เลือกโฟลเดอร์</string>
+    <string name="pathText_manual">ระบุเส้นทางด้วยตนเอง</string>
+
+    <string name="LangTitle">ภาษา</string>
+    <string name="LangDialogTitle">เลือกภาษา:</string>
+    <string name="LangSummary">คุณต้องเริ่มต้นการประยุกต์ใช้สำหรับการยอมรับของการแก้ไข</string>
+    <string name="langOfSystem">โดยค่าเริ่มต้น</string>
+
+    <string name="yesAnswer">ใช่</string>
+    <string name="noAnswer">ไม่</string>
+    <string name="ok">ต้นโอ๊ก</string>
+    <string name="create_new_folder">โฟลเดอร์ใหม่</string>
+    <string name="name_new_folder">ชื่อโฟลเดอร์</string>
+    <string name="fail_create">ข้อผิดพลาดการสร้าง</string>
+
+    <string name="uplink">บันทึกเฉพาะเสียงของคุณ</string>
+    <string name="downlink">บันทึกคำพูดของคู่สนทนาเพียง</string>
+
+
+    <!--#######################################################################################-->
+
+    <string name="deleteAll">ลบทั้งหมด</string>
+    <string name="is_ServiceWork">Состояние записи</string>
+    <string name="pref_openmode">Режим открытия</string>
+    <string name="play_str">PLAY</string>
+    <string name="pause_str">PAUSE</string>
+
+
+</resources>
+

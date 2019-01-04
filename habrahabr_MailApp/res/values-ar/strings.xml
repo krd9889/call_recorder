@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="one_call">استخدام مجاني للفترة البرنامج قد انتهى. في الوقت الحالي، يمكن تسجيل نسخة مجانية من البرنامج مكالمة واحدة فقط. تسجيل جميع المكالمات المتاحة في النسخة المدفوعة من البرنامج. لا يتم حذف سجلاتك القديمة من المحادثات. هذه الملفات يمكن العثور عليها في المجلد "CALL_RECORDS" (الافتراضي) أو غيرها المجلد المحدد لك في وقت سابق.</string>
+    <string name="other_settings">إخفاء الاختصارات:</string>
+
+    <string name="up_priority">يثير الأولوية في مجال خدمة</string>
+    <string name="stroke_cond">مشاهدة إعلام</string>
+    <string name="pref_stroke_cond">уведомление в строке состояния</string>
+    <!--#######################################################################################-->
+    <string name="errorOfDisplay">عرض الخطأ</string>
+    <string name="errorTryFindFileOnSdcard">تحقق مما إذا كان هناك ملف على بطاقة الذاكرة الخاصة بك</string>
+    <string name="pref_hard_menu">есть ли кновка меню</string>
+    <!--#######################################################################################-->
+    <string name="pref_pro">хочет про версию?</string>
+    <string name="pro_version">أنا لا أريد لشراء النسخة المدفوعة من البرنامج (خيارات: كلمة السر تسجيل الدخول، إخفاء الملفات الصوتية، والاتصالات الصورة، لصناعة السيارات في حذف، إضافة ملاحظات على المكالمات، وضع التسجيل اليدوي أثناء المكالمة)</string>
+
+
+    <!--#######################################################################################-->
+    <string name="errorInitView">الملف غير موجود! ربما تم حذفه.</string>
+    <string name="error">خطأ! ربما تسجيل المكالمات غير ممكن على جهازك!</string>
+    <string name="errorAllCrash">خطأ! ربما تسجيل المكالمات غير ممكن على جهازك!</string>
+
+    <string name="search">بحث</string>
+    <string name="rate">تقيم التطبيق في مسرحية جوجل؟</string>
+    <string name="pref_rating">оценка</string>
+
+    <!--#######################################################################################-->
+
+    <string name="pref_audioformat">формат_аудио</string>
+    <string name="pref_white_list">белый лист</string>
+    <string name="pref_white">вкл белый лист</string>
+
+    <string name="pref_black_list">черный лист</string>
+    <string name="pref_black">вкл черный лист</string>
+
+
+
+    <string name="filter">استدعاء تصفية</string>
+
+    <string name="on_white_list">تمكين القائمة البيضاء</string>
+    <string name="setting_white_list">ضبط القائمة البيضاء</string>
+
+    <string name="on_black_list">تمكين القائمة السوداء</string>
+    <string name="setting_black_list">ضبط القائمة السوداء</string>
+
+
+
+    <string name="audioformat">تنسيق ملف الصوت</string>
+    <string name="setaudioformat">اختر إخراج ملف تنسيق الصوت</string>
+    <string name="changeaudioformat">تحديد تنسيق ملف الصوت الناتج</string>
+
+    <string name="gp3format">3GPP</string>
+    <string name="mp4format">MPEG-4</string>
+    <string name="AMR_NBformat">AMR_NB</string>
+
+    <string name="writeToDeveloper">البريد الإلكتروني المطور</string>
+    <string name="send_to_dev">إرسال الرسائل</string>
+    <string name="theme_message">موضوع</string>
+
+
+    <!--#######################################################################################-->
+
+
+
+    <string name="app_name" textsize="6dp">تسجيل المكالمات...</string>
+
+    <string name="callrecords">المكالمات المسجلة</string>
+
+    <string name="settings">إعدادات</string>
+
+    <string name="stateOfrecord">دولة السجل:</string>
+
+    <string name="sound">حدد مصدر من تسجيل الصوت:</string>
+
+    <string name="voice">خط (غير معتمدة من قبل جميع الهواتف)</string>
+    <string name="mic">ميكروفون (ممكن رفيق الصوت سيئة)</string>
+    <string name="comm">هو الأمثل دفق الصوت عبر بروتوكول الإنترنت لل</string>
+
+
+
+
+    <string name="open">فتح</string>
+
+    <string name="delete">نزع</string>
+    <string name="cancel">إلغاء</string>
+    <string name="icon">Icon</string>
+    <string name="exit">إنتاج</string>
+
+    <string name="ist_rec_sound">مصدر التسجيل</string>
+    <string name="inst_ist_rec_sound">يحدد مصدر تسجيل الصوت</string>
+    <string name="change_ist_rec_sound">حدد مصدر من تسجيل الصوت</string>
+
+<!--#######################################################################################-->
+    <string name="emailSettings">تكوين بوابة</string>
+    <string name="email">بوابة العنوان</string>
+    <string name="emailaction">عنوان صندوق بريد على جوجل</string>
+    <string name="dialogemail">أدخل عنوان حيث ستتمكن من استقبال الرسائل</string>
+    <string name="emailpw">كلمة السر بوابة</string>
+    <string name="emailactionpw">كلمة المرور لعلبة البريد على جوجل</string>
+    <string name="dialogemailpw">أدخل كلمة المرور</string>
+    <string name="emaildest">المكان المقصود</string>
+    <string name="emailactiondest">عنوان البريد الإلكتروني الخاص بك (يمكن أن يكون عنوان العبارة)</string>
+    <string name="dialogemaildest">أدخل عنوان حيث ستتمكن من استقبال الرسائل</string>
+    <string name="emailkey">انتقل إلى البريد الإلكتروني؟</string>
+
+    <string name="path">موقع ملفات</string>
+    <string name="pathText">حدد المجلد</string>
+    <string name="pathText_manual">تحديد المسار يدويا</string>
+
+    <string name="LangTitle">لغة</string>
+    <string name="LangDialogTitle">اختر اللغة:</string>
+    <string name="LangSummary">يجب عليك إعادة تشغيل التطبيق لاعتماد التعديلات</string>
+    <string name="langOfSystem">بشكل افتراضي</string>
+
+    <string name="yesAnswer">نعم</string>
+    <string name="noAnswer">لا</string>
+    <string name="ok">بلوط</string>
+    <string name="create_new_folder">مجلد جديد</string>
+    <string name="name_new_folder">اسم المجلد</string>
+    <string name="fail_create">خطأ في إنشاء</string>
+
+    <string name="uplink">تسجيل صوتك فقط</string>
+    <string name="downlink">سجل خطاب محاورا فقط</string>
+
+
+<!--#######################################################################################-->
+
+    <string name="langOfSystem_pref">default</string>
+
+    <string name="pref_pathview">pathview</string>
+    <string name="customPref">customPref</string>
+
+    <string name="pref_email">адрес мэйла</string>
+    <string name="pref_email_pw">пароль мэйла</string>
+    <string name="pref_email_dest">адрес мэйла на который слать</string>
+    <string name="pref_emailsettingskey">пересылать ли на мэйл</string>
+
+    <string name="deleteAll">إزالة جميع</string>
+    <string name="is_ServiceWork">Состояние записи</string>
+    <string name="pref_openmode">Режим открытия</string>
+    <string name="play_str">PLAY</string>
+    <string name="pause_str">PAUSE</string>
+
+
+</resources>
+

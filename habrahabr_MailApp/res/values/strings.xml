@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="one_call">Free use of the program period is over. At the moment, the
+        free version of the program can be recorded only one call. Recording of all calls
+        available in the paid version of the program. Your old records of conversations
+        are not deleted. These files can be found in the folder "CALL_RECORDS" (default)
+        or other specified folder you earlier.</string>
+
+    <string name="other_settings">Hide shortcuts:</string>
+    <string name="settings">Settings</string>
+
+    <string name="pref_mobile_security">pref_mobile_security</string>
+    <string name="sound">Select the source of the sound recording:</string>
+    <string name="reccalls">In an accessible form in the paid version. The recorded telephone calls CALL_RECORDS look in the folder in sdcard</string>
+
+    <string name="up_priority">Raises the priority of service</string>
+    <string name="stroke_cond">show notification</string>
+    <string name="pref_stroke_cond">уведомление в строке состояния</string>
+    <!--#######################################################################################-->
+    <string name="errorOfDisplay">Error display</string>
+    <string name="errorTryFindFileOnSdcard">Check if there is a file on your memory card</string>
+    <string name="pref_hard_menu">есть ли кновка меню</string>
+    <!--#######################################################################################-->
+    <string name="pref_pro">хочет про версию?</string>
+    <string name="pro_version">Buy full version (Options: login password, hide audio files, photo contacts, auto-delete, add notes to calls, manual recording mode during a call)</string>
+
+
+    <!--#######################################################################################-->
+    <string name="errorInitView">File not found! Maybe it was deleted.</string>
+    <string name="error">Error establishing format or source! Is changed to:</string>
+    <string name="errorAllCrash">Error! Maybe call recording is not possible on your device!</string>
+
+    <string name="search">Search</string>
+
+    <string name="rate">Rate the application on Google Play</string>
+    <string name="pref_rating">оценка</string>
+
+    <!--#######################################################################################-->
+
+    <string name="pref_audioformat">формат_аудио</string>
+    <string name="pref_white_list">белый лист</string>
+    <string name="pref_white">вкл белый лист</string>
+
+    <string name="pref_black_list">черный лист</string>
+    <string name="pref_black">вкл черный лист</string>
+
+
+
+    <string name="filter">Call filter</string>
+
+    <string name="on_white_list">Enable white list</string>
+
+    <string name="setting_white_list">Manage the white list</string>
+
+    <string name="on_black_list">Enable blacklist</string>
+
+    <string name="setting_black_list">Manage the black list</string>
+
+
+
+
+    <string name="audioformat">Audio file format</string>
+    <string name="setaudioformat">Select output format audio file</string>
+    <string name="changeaudioformat">Select the format of the output audio file</string>
+
+    <string name="gp3format">3GPP</string>
+    <string name="mp4format">MPEG-4</string>
+    <string name="AMR_NBformat">AMR_NB</string>
+
+    <string name="writeToDeveloper">Email Developer</string>
+    <string name="send_to_dev">Send mail...</string>
+    <string name="theme_message">Topic</string>
+
+
+    <!--#######################################################################################-->
+
+
+    <string name="langOfSystem_pref">default</string>
+
+    <string name="pref_pathview">pathview</string>
+    <string name="customPref">customPref</string>
+
+    <string name="pref_email">адрес мэйла</string>
+    <string name="pref_email_pw">пароль мэйла</string>
+    <string name="pref_email_dest">адрес мэйла на который слать</string>
+    <string name="pref_emailsettingskey">пересылать ли на мэйл</string>
+
+
+    <string name="app_name" textsize="6dp">Call Recorder</string>
+
+    <string name="callrecords">The written-down calls</string>
+
+
+
+    <string name="stateOfrecord">Condition of record: </string>
+
+    <string name="voice">Record of phone call from the line (it is not supported by all models of phones)</string>
+
+    <string name="mic">Record with use of the built-in microphone (poor audibility of the interlocutor is possible)</string>
+
+    <string name="comm">The stream from a microphone will "be ground" by audio under VoIP (if it is available)</string>
+
+    <string name="open">Open</string>
+
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="icon">Icon</string>
+
+    <string name="deleteAll">Delete all</string>
+    <string name="exit">Exit</string>
+
+
+    <string name="play_str">PLAY</string>
+    <string name="pause_str">PAUSE</string>
+
+    <string name="pref_openmode">Режим открытия</string>
+    <string name="is_ServiceWork">Состояние записи</string>
+
+    <string name="ist_rec_sound">Source of the sound recording</string>
+    <string name="inst_ist_rec_sound">Establish the source of the sound recording</string>
+    <string name="change_ist_rec_sound">Select the source of the sound recording</string>
+
+<!--#######################################################################################-->
+
+    <string name="emailSettings">Configuring a gateway</string>
+    <string name="email">Gateway address</string>
+    <string name="emailaction">Mailbox address on Gmail</string>
+    <string name="dialogemail">Enter the address where you will receive messages</string>
+    <string name="emailpw">Password gateway</string>
+    <string name="emailactionpw">The password for the mailbox on Gmail</string>
+    <string name="dialogemailpw">Enter the password</string>
+    <string name="emaildest">Destination</string>
+    <string name="emailactiondest">Your e-mail address (can be the gateway address)</string>
+    <string name="dialogemaildest">Enter the address where you will receive messages</string>
+    <string name="emailkey">Forward to email?</string>
+
+    <string name="path">Location of files</string>
+    <string name="pathText">Select the folder</string>
+    <string name="pathText_manual">Specify the path manually</string>
+
+    <string name="LangTitle">Language</string>
+    <string name="LangDialogTitle">Choose the language:</string>
+    <string name="LangSummary">You must restart the application for the adoption of the amendments</string>
+    <string name="langOfSystem">Default</string>
+
+    <string name="yesAnswer">Yes</string>
+    <string name="noAnswer">No</string>
+    <string name="ok">OK</string>
+    <string name="create_new_folder">New folder</string>
+    <string name="name_new_folder">The folder name</string>
+    <string name="fail_create">Error creating</string>
+
+    <string name="uplink">Record only your voice</string>
+
+    <string name="downlink">Record only interlocutor</string>
+
+
+
+
+</resources>
+

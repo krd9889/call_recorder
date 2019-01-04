@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:id="@+id/RelativeLayout1"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:orientation="vertical"
+                android:background="@drawable/backgroundlist">
+
+
+
+
+<ImageButton android:id="@+id/button"
+        android:icon="@android:drawable/ic_menu_add"
+        android:src="@android:drawable/ic_menu_add"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/fon1cut"/>
+
+<ListView
+android:id="@+id/listview"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:layout_below="@id/button"
+        />
+
+
+
+
+
+
+
+
+
+</RelativeLayout>

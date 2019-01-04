@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="one_call">Kostenlose Nutzung des Programmzeitraums ist vorbei. Im Moment kann die kostenlose Version des Programms nur ein Anruf aufgezeichnet werden. Aufzeichnung aller Anrufe in der kostenpflichtigen Version des Programms. Ihre alten Aufzeichnungen von Gesprächen werden nicht gelöscht. Diese Dateien können im Ordner "CALL_RECORDS" (default) zu finden oder andere angegebene Ordner, den Sie zuvor.</string>
+    <string name="other_settings">Ausblenden Shortcuts:</string>
+    <string name="up_priority">Löst die Priorität der Service</string>
+    <string name="stroke_cond">Benachrichtigung anzeigen</string>
+    <string name="pref_stroke_cond">уведомление в строке состояния</string>
+    <!--#######################################################################################-->
+    <string name="errorOfDisplay">Fehleranzeige</string>
+    <string name="errorTryFindFileOnSdcard">Prüfen Sie, ob es sich um eine Datei auf der Speicherkarte</string>
+    <string name="pref_hard_menu">есть ли кновка меню</string>
+    <!--#######################################################################################-->
+    <string name="pref_pro">хочет про версию?</string>
+    <string name="pro_version">Ich will nicht auf die kostenpflichtige Version des Programms zu kaufen (Optionen: Login-Passwort, verbergen Audiodateien, Bilder Kontakte, auto-delete, Notizen hinzufügen, um Anrufe, manuellen Aufnahmemodus während eines Anrufs)</string>
+
+
+    <!--#######################################################################################-->
+    <string name="errorInitView">Datei nicht gefunden! Vielleicht war es gelöscht.</string>
+    <string name="error">Fehler beim Aufbau Format und Quelle vereint! Ist geändert:</string>
+    <string name="errorAllCrash">Error! Vielleicht rufen Aufnahme ist nicht auf Ihrem Gerät möglich!</string>
+
+    <string name="search">Suchen</string>
+    <string name="rate">Bewerten Sie die App im Google Play?</string>
+    <string name="pref_rating">оценка</string>
+
+    <!--#######################################################################################-->
+
+    <string name="pref_audioformat">формат_аудио</string>
+    <string name="pref_white_list">белый лист</string>
+    <string name="pref_white">вкл белый лист</string>
+
+    <string name="pref_black_list">черный лист</string>
+    <string name="pref_black">вкл черный лист</string>
+
+
+
+    <string name="filter">Anruffilter</string>
+
+    <string name="on_white_list">Aktivieren Whitelist</string>
+    <string name="setting_white_list">Stellen Sie die weiße Liste</string>
+
+    <string name="on_black_list">Aktivieren Blacklist</string>
+    <string name="setting_black_list">Stellen Sie die schwarze Liste</string>
+
+
+
+    <string name="audioformat">Audio-Dateiformat</string>
+    <string name="setaudioformat">Ausgabeformat wählen Audiodatei</string>
+    <string name="changeaudioformat">Wählen Sie das Format des Ausgabe-Audiodatei</string>
+
+    <string name="gp3format">3GPP</string>
+    <string name="mp4format">MPEG-4</string>
+    <string name="AMR_NBformat">AMR_NB</string>
+
+    <string name="writeToDeveloper">Email Entwickler</string>
+    <string name="send_to_dev">schicken Sie Briefe</string>
+    <string name="theme_message">Topic</string>
+
+
+    <!--#######################################################################################-->
+
+
+
+
+    <string name="langOfSystem_pref">default</string>
+
+    <string name="pref_pathview">pathview</string>
+    <string name="customPref">customPref</string>
+
+    <string name="pref_email">адрес мэйла</string>
+    <string name="pref_email_pw">пароль мэйла</string>
+    <string name="pref_email_dest">адрес мэйла на который слать</string>
+    <string name="pref_emailsettingskey">пересылать ли на мэйл</string>
+
+    <string name="app_name" textsize="6dp">Aufruf der Recorder
+
+    </string>
+
+    <string name="reccalls">Es ist in der gebührenpflichtigen Version zugänglich. Die aufgezeichneten Klingeln sehen Sie in der Mappe CALL_RECORDS auf sdcard</string>
+    <string name="callrecords">Die aufgezeichneten Klingeln</string>
+
+    <string name="settings">Einstellungen</string>
+
+    <string name="stateOfrecord">Der Zustand der Aufzeichnung:</string>
+
+    <string name="sound">Wählen Sie die Quelle der Aufzeichnung des Lautes:</string>
+
+    <string name="voice">Die Aufzeichnung der telefonischen Klingel c die Linien (wird nicht von allen Modelle der Telefone unterstützt)</string>
+    <string name="mic">Die Aufzeichnung unter Ausnutzung des eingebauten Mikrofons (es ist die schlechte Hörbarkeit des Gesprächspartners möglich)</string>
+
+    <string name="comm">Audio- wird der Strom vom Mikrofon unter VoIP (wenn ist zugänglich)) "abgeschliffen sein"</string>
+
+    <string name="open">Öffnen</string>
+
+    <string name="delete">entfernen</string>
+    <string name="cancel">Stornierung</string>
+    <string name="icon">Icon</string>
+    <string name="exit">Ausgabe</string>
+
+    <string name="ist_rec_sound">die Quelle der Tonaufnahme</string>
+    <string name="inst_ist_rec_sound">etablieren die Quelle des Tonaufnahme</string>
+    <string name="change_ist_rec_sound">Wählen Sie die Quelle der Tonaufnahme</string>
+
+
+    <!--#######################################################################################-->
+    <string name="emailSettings">Konfigurieren eines Gateways</string>
+    <string name="email">Gateway-Adresse</string>
+    <string name="emailaction">PO Box-Adresse auf gmail</string>
+    <string name="dialogemail">Geben Sie die Adresse, wo Sie Nachrichten erhalten</string>
+    <string name="emailpw">Passwort Gateway</string>
+    <string name="emailactionpw">Das Passwort für die Mailbox auf gmail</string>
+    <string name="dialogemailpw">Geben Sie das Passwort</string>
+    <string name="emaildest">Reiseziel</string>
+    <string name="emailactiondest">Ihre E-Mail-Adresse (kann die Gateway-Adresse sein)</string>
+    <string name="dialogemaildest">Geben Sie die Adresse, wo Sie Nachrichten erhalten</string>
+    <string name="emailkey">Uns auf per E-Mail?</string>
+
+    <string name="path">Ort der Dateien</string>
+    <string name="pathText">Wählen Sie den Ordner</string>
+    <string name="pathText_manual">Geben Sie den Pfad manuell</string>
+
+    <string name="LangTitle">Sprache</string>
+    <string name="LangDialogTitle">Wählen Sie die Sprache:</string>
+    <string name="LangSummary">Sie müssen den Antrag für die Annahme der Änderungen</string>
+    <string name="langOfSystem">Standard</string>
+
+    <string name="yesAnswer">Ja</string>
+    <string name="noAnswer">Nein</string>
+    <string name="ok">Ok</string>
+    <string name="create_new_folder">Neuer Ordner</string>
+    <string name="name_new_folder">Der Name des Ordners</string>
+    <string name="fail_create">Fehler beim Erstellen des</string>
+
+    <string name="uplink">Aufnahme nur deine Stimme</string>
+    <string name="downlink">Sprachaufnahme nur Gesprächspartner</string>
+
+
+    <!--#######################################################################################-->
+
+
+    <string name="deleteAll">Alle Dateien zu entfernen</string>
+    <string name="is_ServiceWork">Состояние записи</string>
+    <string name="pref_openmode">Режим открытия</string>
+    <string name="play_str">PLAY</string>
+    <string name="pause_str">PAUSE</string>
+
+</resources>
+

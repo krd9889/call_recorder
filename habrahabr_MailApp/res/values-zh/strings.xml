@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="one_call">免費使用方案期間的結束。目前，該計劃的免費版本可以記錄只有一個呼叫。在錄製節目的付費版本的所有呼叫。談話您的舊記錄不會被刪除。這些文件可以在文件夾“CALL_RECORDS”（默認）被發現或其他指定的文件夾前面。</string>
+    <string name="other_settings">隱藏快捷方式：</string>
+
+    <string name="up_priority">提高服务的优先级</string>
+    <string name="stroke_cond">显示通知</string>
+    <string name="pref_stroke_cond">уведомление в строке состояния</string>
+    <!--#######################################################################################-->
+    <string name="errorOfDisplay">错误显示</string>
+    <string name="errorTryFindFileOnSdcard">检查是否有你的记忆卡上的文件</string>
+    <string name="pref_hard_menu">есть ли кновка меню</string>
+    <!--#######################################################################################-->
+    <string name="pref_pro">хочет про версию?</string>
+    <string name="pro_version">我不想购买付费版本的程序（选项：登录密码，隐藏的音频文件，照片联系人，自动删除，在通话过程中添加注释，电话，手动录音模式）</string>
+
+
+    <!--#######################################################################################-->
+    <string name="errorInitView">找不到文件。也许它已被删除。</string>
+    <string name="error">建立格式错误或源！变更为：</string>
+    <string name="errorAllCrash">错误！也许通话记录在您的设备是不可能的！</string>
+
+    <string name="search">搜索</string>
+    <string name="rate">您对谷歌播放中的应用程序？</string>
+    <string name="pref_rating">оценка</string>
+
+    <!--#######################################################################################-->
+
+    <string name="pref_audioformat">формат_аудио</string>
+    <string name="pref_white_list">белый лист</string>
+    <string name="pref_white">вкл белый лист</string>
+
+    <string name="pref_black_list">черный лист</string>
+    <string name="pref_black">вкл черный лист</string>
+
+
+
+    <string name="filter">呼叫过滤器</string>
+
+    <string name="on_white_list">启用白名单</string>
+    <string name="setting_white_list">调整白名单</string>
+
+    <string name="on_black_list">启用黑名单</string>
+    <string name="setting_black_list">调整黑名单</string>
+
+
+
+    <string name="audioformat">音频文件格式</string>
+    <string name="setaudioformat">选择输出格式的音频文件</string>
+    <string name="changeaudioformat">选择输出的音频文件的格式</string>
+
+    <string name="gp3format">3GPP</string>
+    <string name="mp4format">MPEG-4</string>
+    <string name="AMR_NBformat">AMR_NB</string>
+
+    <string name="writeToDeveloper">开发者发送电子邮件</string>
+    <string name="send_to_dev">发送信件</string>
+    <string name="theme_message">主题</string>
+
+
+    <!--#######################################################################################-->
+
+    <string name="langOfSystem_pref">default</string>
+
+    <string name="pref_pathview">pathview</string>
+    <string name="customPref">customPref</string>
+
+    <string name="pref_email">адрес мэйла</string>
+    <string name="pref_email_pw">пароль мэйла</string>
+    <string name="pref_email_dest">адрес мэйла на который слать</string>
+    <string name="pref_emailsettingskey">пересылать ли на мэйл</string>
+
+    <string name="app_name" textsize="6dp">通话记录器
+
+    </string>
+
+    <string name="reccalls">可在帶薪版本。其記錄的調用，看到該文件夾在SD卡CALL_RECORDS</string>
+    <string name="callrecords">記錄的調用</string>
+
+    <string name="settings">設置</string>
+
+    <string name="stateOfrecord">國家備案：</string>
+
+    <string name="sound">選擇錄音的來源：</string>
+
+    <string name="voice">錄製的電話線（不支持所有手機）</string>
+    <string name="mic">記錄使用內置麥克風（可以是壞的音響伴侶）</string>
+
+    <string name="comm">來自麥克風的音頻流將被“鎖定”為VoIP（如果可用））</string>
+
+
+    <string name="open">打开</string>
+
+    <string name="delete">删除</string>
+    <string name="cancel">消除</string>
+    <string name="icon">Icon</string>
+    <string name="exit">产量</string>
+
+    <string name="ist_rec_sound">录音源</string>
+    <string name="inst_ist_rec_sound">建立源的录音</string>
+    <string name="change_ist_rec_sound">选择录音源</string>
+
+
+    <!--#######################################################################################-->
+    <string name="emailSettings">配置网关</string>
+    <string name="email">网关地址</string>
+    <string name="emailaction">邮政信箱地址在Gmail</string>
+    <string name="dialogemail">输入的地址，你将收到邮件</string>
+    <string name="emailpw">密码网关</string>
+    <string name="emailactionpw">在Gmail邮箱的密码</string>
+    <string name="dialogemailpw">输入密码</string>
+    <string name="emaildest">目的地</string>
+    <string name="emailactiondest">您的E-mail地址（可以是网关地址）</string>
+    <string name="dialogemaildest">输入的地址，你将收到邮件</string>
+    <string name="emailkey">转发到邮件？</string>
+
+    <string name="path">文件的位置</string>
+    <string name="pathText">选择文件夹</string>
+    <string name="pathText_manual">手动指定路径</string>
+
+    <string name="LangTitle">语</string>
+    <string name="LangDialogTitle">选择语言：</string>
+    <string name="LangSummary">采纳修订，您必须重新启动应用程序</string>
+    <string name="langOfSystem">默认情况下，</string>
+
+    <string name="yesAnswer">是</string>
+    <string name="noAnswer">没有</string>
+    <string name="ok">橡木</string>
+    <string name="create_new_folder">新建文件夹</string>
+    <string name="name_new_folder">文件夹名</string>
+    <string name="fail_create">错误创建</string>
+
+    <string name="uplink">只记录你的声音</string>
+    <string name="downlink">唯一的对话者演讲实录</string>
+
+
+    <!--#######################################################################################-->
+
+
+    <string name="deleteAll">全部删除</string>
+    <string name="is_ServiceWork">Состояние записи</string>
+    <string name="pref_openmode">Режим открытия</string>
+    <string name="play_str">PLAY</string>
+    <string name="pause_str">PAUSE</string>
+
+</resources>
+

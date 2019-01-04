@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="one_call">프로그램 기간의 무료 이용이 끝났습니다.이때, 프로그램의 무료 버전은 오직 하나의 통화를 기록 할 수있다. 프로그램의 유료 버전에서 사용할 수있는 모든 통화의 기록. 대화의 이전 기록은 삭제되지 않습니다. 이러한 파일은 폴더 "CALL_RECORDS"(기본값)에서 발견 또는 기타는 이전 폴더를 지정할 수 있습니다.</string>
+    <string name="other_settings">바로 가기를 숨기기</string>
+
+    <string name="up_priority">서비스의 우선 순위를 높입니다</string>
+    <string name="stroke_cond">알림 표시</string>
+    <string name="pref_stroke_cond">уведомление в строке состояния</string>
+    <!--#######################################################################################-->
+    <string name="errorOfDisplay">오류 표시</string>
+    <string name="errorTryFindFileOnSdcard">메모리 카드에 파일이 있는지 확인</string>
+    <string name="pref_hard_menu">есть ли кновка меню</string>
+    <!--#######################################################################################-->
+    <string name="pref_pro">хочет про версию?</string>
+    <string name="pro_version">(: 오디오 파일, 사진 연락처, 자동 삭제, 통화 중 통화, 수동 녹화 모드로 메모를 추가 숨기 로그인 암호 옵션)를 나는 프로그램의 유료 버전을 구매하지 않으</string>
+
+
+    <!--#######################################################################################-->
+    <string name="errorInitView">파일을 찾을 수 없습니다! 아마이 삭제되었습니다.</string>
+
+    <string name="error">오류 설정 형식이나 소스! 로 변경됩니다 :</string>
+    <string name="errorAllCrash">오류! 어쩌면 녹음 장치에 불가능 불러!</string>
+
+    <string name="search">검색</string>
+    <string name="rate">당신은 구글 플레이에서 응용 프로그램을 평가</string>
+    <string name="pref_rating">оценка</string>
+
+    <!--#######################################################################################-->
+
+    <string name="pref_audioformat">формат_аудио</string>
+    <string name="pref_white_list">белый лист</string>
+    <string name="pref_white">вкл белый лист</string>
+
+    <string name="pref_black_list">черный лист</string>
+    <string name="pref_black">вкл черный лист</string>
+
+
+
+    <string name="filter">통화 필터</string>
+
+    <string name="on_white_list">화이트리스트 사용</string>
+    <string name="setting_white_list">화이트리스트를 조정</string>
+
+    <string name="on_black_list">블랙리스트 사용</string>
+    <string name="setting_black_list">블랙리스트를 조정</string>
+
+
+
+    <string name="audioformat">오디오 파일 형식</string>
+    <string name="setaudioformat">출력 형식의 오디오 파일을 선택</string>
+    <string name="changeaudioformat">출력 오디오 파일의 형식을 선택</string>
+
+    <string name="gp3format">3GPP</string>
+    <string name="mp4format">MPEG-4</string>
+    <string name="AMR_NBformat">AMR_NB</string>
+
+    <string name="writeToDeveloper">개발자에게 이메일 보내기</string>
+    <string name="send_to_dev">문자 보내기</string>
+    <string name="theme_message">화제</string>
+
+
+    <!--#######################################################################################-->
+
+    <string name="app_name" textsize="6dp">통화 녹음</string>
+
+    <string name="callrecords">기록 된 통화</string>
+
+    <string name="settings">설정</string>
+
+    <string name="stateOfrecord">레코드의 상태 :</string>
+
+    <string name="sound">사운드 녹음 소스를 선택 :</string>
+
+    <string name="voice">라인 (모든 휴대 전화에서 지원되지 않음)</string>
+    <string name="mic">마이크 (가능하면 나쁜 오디오 동반자)</string>
+    <string name="comm">오디오 스트림의 VoIP에 최적화되어 있습니다</string>
+
+
+
+
+    <string name="open">열려있는</string>
+
+    <string name="delete">제거</string>
+    <string name="cancel">해제</string>
+    <string name="icon">Icon</string>
+    <string name="exit">나가기</string>
+
+    <string name="ist_rec_sound">녹음 소스</string>
+    <string name="inst_ist_rec_sound">녹음의 소스를 설정합니다</string>
+    <string name="change_ist_rec_sound">사운드 녹음 소스를 선택</string>
+
+    <!--#######################################################################################-->
+    <string name="emailSettings">게이트웨이 구성</string>
+    <string name="email">게이트웨이 주소</string>
+    <string name="emailaction">Gmail의에 PO 상자 주소</string>
+    <string name="dialogemail">메시지를받을 주소를 입력합니다</string>
+    <string name="emailpw">비밀번호 게이트웨이</string>
+    <string name="emailactionpw">Gmail에서의 사서함에 대한 암호</string>
+    <string name="dialogemailpw">암호를 입력</string>
+    <string name="emaildest">목적지</string>
+    <string name="emailactiondest">전자 우편 주소 (게이트웨이 주소가 될 수 있습니다)</string>
+    <string name="dialogemaildest">메시지를받을 주소를 입력합니다</string>
+    <string name="emailkey">이메일로 전달?</string>
+
+    <string name="path">파일의 위치</string>
+    <string name="pathText">폴더를 선택</string>
+    <string name="pathText_manual">수동으로 경로를 지정</string>
+
+    <string name="LangTitle">언어</string>
+    <string name="LangDialogTitle">언어를 선택하세요 :</string>
+    <string name="LangSummary">당신은 개정안 채택을위한 응용 프로그램을 다시 시작해야합니다</string>
+    <string name="langOfSystem">기본적으로</string>
+
+    <string name="yesAnswer">예</string>
+    <string name="noAnswer">아니</string>
+    <string name="ok">오크 나무</string>
+    <string name="create_new_folder">새 폴더</string>
+    <string name="name_new_folder">폴더 이름</string>
+    <string name="fail_create">작성 오류</string>
+
+    <string name="uplink">음성 만 녹음</string>
+    <string name="downlink">기록 음성 만 대담</string>
+
+
+    <!--#######################################################################################-->
+
+    <string name="langOfSystem_pref">default</string>
+
+    <string name="pref_pathview">pathview</string>
+    <string name="customPref">customPref</string>
+
+    <string name="pref_email">адрес мэйла</string>
+    <string name="pref_email_pw">пароль мэйла</string>
+    <string name="pref_email_dest">адрес мэйла на который слать</string>
+    <string name="pref_emailsettingskey">пересылать ли на мэйл</string>
+
+    <string name="deleteAll">모두 제거</string>
+    <string name="is_ServiceWork">Состояние записи</string>
+    <string name="pref_openmode">Режим открытия</string>
+    <string name="play_str">PLAY</string>
+    <string name="pause_str">PAUSE</string>
+
+
+</resources>
+

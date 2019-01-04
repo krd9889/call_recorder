@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearLayout android:id="@+id/LinearLayout01"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+              xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:background="@drawable/backgroundlist"
+        >
+
+
+
+    <TextView android:id="@+id/emailaddressTV"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:text="@string/emailaction"
+              android:textColor="@android:color/white"/>
+
+        <EditText android:id="@+id/emailaddressET"
+                  android:layout_width="fill_parent"
+                  android:layout_height="wrap_content"
+                  android:inputType="textEmailAddress"
+                  android:text="palladium.dev.corp@gmail.com"
+                  android:enabled="false"
+                  android:editable="false"
+                  android:textColor="@android:color/white"/>
+
+
+    <TextView android:id="@+id/emailsubjectTV"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:text="@string/theme_message"
+              android:textColor="@android:color/white"/>
+
+    <TableRow
+            android:id="@+id/TableRow01"
+            android:layout_height="wrap_content"
+            android:layout_width="fill_parent"
+            android:gravity="center_horizontal"
+            android:baselineAligned="true"
+
+            >
+
+        <EditText android:id="@+id/emailsubjectET"
+                  android:layout_width="fill_parent"
+                  android:layout_height="wrap_content"
+                  android:layout_weight="1"
+                  android:text="1"
+                />
+
+
+        <ImageButton android:id="@+id/emailsendbutton"
+                     android:layout_width="fill_parent"
+                     android:layout_height="wrap_content"
+                     android:src="@android:drawable/ic_menu_send"
+
+                     android:layout_weight="4"
+                />
+
+   </TableRow>
+
+
+    <ScrollView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent">
+
+    <EditText android:id="@+id/emailtext"
+              android:layout_width="fill_parent"
+              android:layout_height="wrap_content"
+
+
+              />
+
+    </ScrollView>
+
+
+
+
+</LinearLayout>

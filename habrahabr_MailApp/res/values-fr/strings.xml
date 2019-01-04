@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="one_call">L\'utilisation gratuite de la durée du programme est terminée. Pour le moment, la version gratuite du programme peut être enregistré un seul appel. Enregistrement de tous les appels disponibles dans la version payante du programme. Vos anciens enregistrements de conversations ne sont pas supprimés. Ces fichiers peuvent être trouvés dans le dossier "CALL_RECORDS" (par défaut) ou un autre dossier spécifié plus tôt.</string>
+    <string name="other_settings">Masquer les raccourcis:</string>
+
+    <string name="up_priority">Augmente la priorité du service</string>
+    <string name="stroke_cond">Afficher notification</string>
+    <string name="pref_stroke_cond">уведомление в строке состояния</string>
+    <!--#######################################################################################-->
+    <string name="errorOfDisplay">Erreur d\'affichage</string>
+    <string name="errorTryFindFileOnSdcard">>Vérifiez qu\'il y a un fichier sur votre carte mémoire</string>
+    <string name="pref_hard_menu">есть ли кновка меню</string>
+    <!--#######################################################################################-->
+    <string name="pref_pro">хочет про версию?</string>
+    <string name="pro_version">Je ne veux pas acheter la version payante du programme (Options: mot de passe de connexion, cacher des fichiers audio, photos, contacts auto-supprimer, ajouter des notes à des appels, le mode d\'enregistrement manuel en cours d\'appel)</string>
+
+
+    <!--#######################################################################################-->
+    <string name="errorInitView">Fichier introuvable! Peut-être qu\'il a été supprimé</string>
+
+    <string name="error">Erreur lors de l\'établissement du format ou de la source! Est changé par:</string>
+    <string name="errorAllCrash">Erreur! Peut-être que l\'enregistrement d\'appel n\'est pas possible sur votre appareil!</string>
+
+    <string name="search">Recherche</string>
+    <string name="rate">Avez-vous noté l\'application sur Google Play?</string>
+    <string name="pref_rating">оценка</string>
+
+    <!--#######################################################################################-->
+
+    <string name="pref_audioformat">формат_аудио</string>
+    <string name="pref_white_list">белый лист</string>
+    <string name="pref_white">вкл белый лист</string>
+
+    <string name="pref_black_list">черный лист</string>
+    <string name="pref_black">вкл черный лист</string>
+
+
+
+    <string name="filter">Filtre d\'appels</string>
+
+    <string name="on_white_list">Activer la liste blanche</string>
+    <string name="setting_white_list">Gérer la liste blanche</string>
+
+    <string name="on_black_list">Activer la liste noire</string>
+
+    <string name="setting_black_list">Gérer la liste noire</string>
+
+
+
+    <string name="audioformat">Format de fichier audio</string>
+    <string name="setaudioformat">Sélectionnez le format de sortie du fichier audio</string>
+    <string name="changeaudioformat">Sélectionnez le format du fichier audio de sortie</string>
+
+    <string name="gp3format">3GPP</string>
+    <string name="mp4format">MPEG-4</string>
+    <string name="AMR_NBformat">AMR_NB</string>
+
+    <string name="writeToDeveloper">Envoyer un e-mail au développeur</string>
+    <string name="send_to_dev">Envoyer un mail...</string>
+    <string name="theme_message">Sujet</string>
+
+
+    <!--#######################################################################################-->
+
+    <string name="langOfSystem_pref">default</string>
+
+    <string name="pref_pathview">pathview</string>
+    <string name="customPref">customPref</string>
+
+    <string name="pref_email">адрес мэйла</string>
+    <string name="pref_email_pw">пароль мэйла</string>
+    <string name="pref_email_dest">адрес мэйла на который слать</string>
+    <string name="pref_emailsettingskey">пересылать ли на мэйл</string>
+
+    <string name="app_name" textsize="6dp">Enregistreur d\'appels
+
+    </string>
+
+    <string name="reccalls">Aoudio le flux du microphone" sera aiguisé "sous VoIP (si est accessible))</string>
+    <string name="callrecords">Les appels enregistrés</string>
+
+    <string name="settings">Paramètres</string>
+
+    <string name="stateOfrecord">L\'état de l\'inscription :</string>
+
+    <string name="sound">Choisissez la source de l\'enregistrement de son :</string>
+
+    <string name="voice">Enregistrement d\'appel à partir de la ligne (n\'est pas supporté par tous les modèles de téléphones)</string>
+    <string name="mic">Enregistrement à l\'aide du microphone intégré (une faible audibilité de l\'interlocuteur est possible)</string>
+
+    <string name="comm">Le flux du microphone va "être broyé" par audio sous VoIP (si disponible)</string>
+
+
+
+    <!--#######################################################################################-->
+    <string name="emailSettings">Configuration d\'une passerelle</string>
+    <string name="email">Adresse de la passerelle</string>
+    <string name="emailaction">Adresse de boîte aux lettres Gmail</string>
+    <string name="dialogemail">Introduisez l\'adresse où vous allez recevoir les messages</string>
+    <string name="emailpw">Mot de passe de la passerelle</string>
+    <string name="emailactionpw">Le mot de passe pour la boîte aux lettres Gmail</string>
+    <string name="dialogemailpw">Introduisez le mot de passe</string>
+    <string name="emaildest">Destination</string>
+    <string name="emailactiondest">Votre adresse e-mail (peut être l\'adresse de la passerelle)</string>
+    <string name="dialogemaildest">Introduisez l\'adresse où vous allez recevoir les messages</string>
+    <string name="emailkey">Transmettre à l\'e-mail?</string>
+
+    <string name="path">Emplacement des fichiers</string>
+
+    <string name="pathText">Sélectionner le dossier</string>
+
+    <string name="pathText_manual">Spécifier le chemin manuellement</string>
+
+
+    <string name="LangTitle">Langage</string>
+    <string name="LangDialogTitle">Choisissez le langage:</string>
+    <string name="LangSummary">Vous devez redémarrer l\'application pour appliquer les modifications</string>
+    <string name="langOfSystem">Par défaut</string>
+
+    <string name="yesAnswer">Oui</string>
+    <string name="noAnswer">Non</string>
+    <string name="ok">OK</string>
+    <string name="create_new_folder">Nouveau dossier</string>
+    <string name="name_new_folder">Le nom du dossier</string>
+    <string name="fail_create">Erreur lors de la création</string>
+
+    <string name="uplink">Enregistrer seulement votre voix</string>
+    <string name="downlink">Enregistrer seulement l\'interlocuteur</string>
+
+
+
+
+    <!--#######################################################################################-->
+
+    <string name="open">Ouvrir</string>
+
+    <string name="delete">Supprimer</string>
+    <string name="cancel">Annuler</string>
+    <string name="icon">Icon</string>
+    <string name="exit">Quitter</string>
+
+    <string name="ist_rec_sound">Source de l\'enregistrement</string>
+    <string name="inst_ist_rec_sound">Etablir l\'origine de l\'enregistrement</string>
+    <string name="change_ist_rec_sound">Sélectionner la source de l\'enregistrement</string>
+
+
+
+
+
+    <string name="deleteAll">Tout supprimer</string>
+    <string name="is_ServiceWork">Состояние записи</string>
+    <string name="pref_openmode">Режим открытия</string>
+    <string name="play_str">PLAY</string>
+    <string name="pause_str">PAUSE</string>
+
+</resources>
+

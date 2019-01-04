@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="one_call">プログラム期間の無料使用が終わりました。現時点では、プログラムの無料版は、コールを1つだけ記録することができます。プログラムの有料版で利用可能なすべてのコールの記録。会話の古いレコードが削除されません。これらのファイルは、あなたが以前のフォルダ「CALL_RECORDS」（デフォルト）または他の指定したフォルダに格納されています。</string>
+    <string name="other_settings">ショートカットを隠す：</string>
+
+    <string name="up_priority">サービスの優先順位を上げる</string>
+    <string name="stroke_cond">通知を表示する</string>
+    <string name="pref_stroke_cond">уведомление в строке состояния</string>
+    <!--#######################################################################################-->
+    <string name="errorOfDisplay">エラー表示</string>
+    <string name="errorTryFindFileOnSdcard">メモリカード上のファイルがあるかどうかをチェック</string>
+    <string name="pref_hard_menu">есть ли кновка меню</string>
+    <!--#######################################################################################-->
+    <string name="pref_pro">хочет про версию?</string>
+    <string name="pro_version">私は（：ログインパスワード、オーディオファイル、写真の連絡先は、自動削除し、コールにメモを追加し、手動録画モード通話中に隠すオプション）プログラムの有料版を購入したくない</string>
+
+
+    <!--#######################################################################################-->
+    <string name="errorInitView">ファイルが見つかりません！多分それが削除されました。</string>
+    <string name="error">形式またはソースを確立エラー！に変更されます：</string>
+    <string name="errorAllCrash">エラー！多分記録はあなたのデバイス上では不可能である呼ぶ！</string>
+
+    <string name="search">検索</string>
+    <string name="rate">あなたは、Googleプレイでアプリを評価する？</string>
+    <string name="pref_rating">оценка</string>
+
+    <!--#######################################################################################-->
+
+    <string name="pref_audioformat">формат_аудио</string>
+    <string name="pref_white_list">белый лист</string>
+    <string name="pref_white">вкл белый лист</string>
+
+    <string name="pref_black_list">черный лист</string>
+    <string name="pref_black">вкл черный лист</string>
+
+
+
+    <string name="filter">フィルタの呼び出し</string>
+
+    <string name="on_white_list">ホワイトリストを有効にする</string>
+    <string name="setting_white_list">ホワイトリストを調整</string>
+
+    <string name="on_black_list">ブラックリストを有効にする</string>
+    <string name="setting_black_list">ブラックリストを調整</string>
+
+
+
+    <string name="audioformat">オーディオファイルフォーマット</string>
+    <string name="setaudioformat">出力フォーマットのオーディオファイルを選択</string>
+    <string name="changeaudioformat">出力オーディオファイルのフォーマットを選択してください</string>
+
+    <string name="gp3format">3GPP</string>
+    <string name="mp4format">MPEG-4</string>
+    <string name="AMR_NBformat">AMR_NB</string>
+
+    <string name="writeToDeveloper">デベロッパーにメールを送信</string>
+    <string name="send_to_dev">手紙を送る</string>
+    <string name="theme_message">トピック</string>
+
+
+    <!--#######################################################################################-->
+
+    <string name="app_name" textsize="6dp">録音を呼び出す</string>
+
+    <string name="callrecords">録画呼び出し</string>
+
+    <string name="settings">設定</string>
+
+    <string name="stateOfrecord">レコードの状態：</string>
+
+    <string name="sound">録音のソースを選択します。</string>
+
+    <string name="voice">ライン（すべての電話機でサポートされていません）</string>
+    <string name="mic">マイク（可能悪いオーディオコンパニオン）</string>
+    <string name="comm">オーディオストリームは、VoIPのために最適化され</string>
+
+
+
+
+    <string name="open">オープン</string>
+
+    <string name="delete">削除する</string>
+    <string name="cancel">キャンセル</string>
+    <string name="icon">Icon</string>
+    <string name="exit">出力</string>
+
+    <string name="ist_rec_sound">録音ソース</string>
+    <string name="inst_ist_rec_sound">録音のソースを設定します。</string>
+    <string name="change_ist_rec_sound">録音のソースを選択し</string>
+
+    <!--#######################################################################################-->
+    <string name="emailSettings">ゲートウェイの設定</string>
+    <string name="email">ゲートウェイアドレス</string>
+    <string name="emailaction">Gmailの上の私書箱</string>
+    <string name="dialogemail">あなたがメッセージを受信するアドレスを入力してください</string>
+    <string name="emailpw">パスワードゲートウェイ</string>
+    <string name="emailactionpw">Gmailの上のメールボックスのパスワード</string>
+    <string name="dialogemailpw">パスワードを入力する</string>
+    <string name="emaildest">先</string>
+    <string name="emailactiondest">あなたのe-mailアドレス（ゲートウェイアドレスを指定できます）</string>
+    <string name="dialogemaildest">あなたがメッセージを受信するアドレスを入力してください</string>
+    <string name="emailkey">メールに転送？</string>
+
+    <string name="path">ファイルの場所</string>
+    <string name="pathText">フォルダーを選択する</string>
+    <string name="pathText_manual">手動でパスを指定します</string>
+
+    <string name="LangTitle">言語</string>
+    <string name="LangDialogTitle">言語を選択してください：</string>
+    <string name="LangSummary">あなたは、改正の採択のためのアプリケーションを再起動する必要があります</string>
+    <string name="langOfSystem">初期設定で</string>
+
+    <string name="yesAnswer">はい</string>
+    <string name="noAnswer">ノー</string>
+    <string name="ok">オーク</string>
+    <string name="create_new_folder">新規フォルダ</string>
+    <string name="name_new_folder">フォルダ名</string>
+    <string name="fail_create">作成中にエラー</string>
+
+    <string name="uplink">唯一のあなたの声を録音する</string>
+    <string name="downlink">レコードスピーチだけ対談</string>
+
+
+    <!--#######################################################################################-->
+
+    <string name="langOfSystem_pref">default</string>
+
+    <string name="pref_pathview">pathview</string>
+    <string name="customPref">customPref</string>
+
+    <string name="pref_email">адрес мэйла</string>
+    <string name="pref_email_pw">пароль мэйла</string>
+    <string name="pref_email_dest">адрес мэйла на который слать</string>
+    <string name="pref_emailsettingskey">пересылать ли на мэйл</string>
+
+    <string name="deleteAll">すべて削除</string>
+    <string name="is_ServiceWork">Состояние записи</string>
+    <string name="pref_openmode">Режим открытия</string>
+    <string name="play_str">PLAY</string>
+    <string name="pause_str">PAUSE</string>
+
+
+</resources>
+

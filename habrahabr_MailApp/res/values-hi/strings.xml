@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="one_call">कार्यक्रम की अवधि के नि: शुल्क उपयोग खत्म हो गया है। फिलहाल, इस कार्यक्रम के मुक्त संस्करण केवल एक कॉल दर्ज की जा सकती है। कार्यक्रम का भुगतान किया संस्करण में उपलब्ध सभी कॉल की रिकॉर्डिंग। बातचीत के अपने पुराने रिकॉर्ड को नष्ट नहीं कर रहे हैं। इन फ़ाइलों को फ़ोल्डर "CALL_RECORDS" (डिफ़ॉल्ट) में पाया या अन्य आप पहले फ़ोल्डर निर्दिष्ट किया जा सकता है।</string>
+    <string name="other_settings">शॉर्टकट छुपाएं:</string>
+
+    <string name="up_priority">सेवा की प्राथमिकता उठाता</string>
+    <string name="stroke_cond">अधिसूचना दिखाएं</string>
+    <string name="pref_stroke_cond">уведомление в строке состояния</string>
+    <!--#######################################################################################-->
+    <string name="errorOfDisplay">त्रुटि प्रदर्शन</string>
+    <string name="errorTryFindFileOnSdcard">अपनी स्मृति कार्ड पर एक फ़ाइल है की जाँच करें</string>
+    <string name="pref_hard_menu">есть ли кновка меню</string>
+    <!--#######################################################################################-->
+    <string name="pref_pro">хочет про версию?</string>
+    <string name="pro_version">(ऑडियो फ़ाइलें, फ़ोटो संपर्क, ऑटो हटाने के लिए, कॉल के दौरान कॉल, मैनुअल रिकॉर्डिंग मोड के लिए नोट्स जोड़ छिपाने, लॉगिन पासवर्ड विकल्प) मैं कार्यक्रम का भुगतान किया संस्करण खरीद नहीं करना चाहती</string>
+
+
+    <!--#######################################################################################-->
+    <string name="errorInitView">फ़ाइल नहीं मिला! शायद इसे हटा दिया गया था.</string>
+
+    <string name="error">त्रुटि की स्थापना प्रारूप या स्रोत! करने के लिए बदल गया है:</string>
+    <string name="errorAllCrash">त्रुटि! शायद रिकॉर्डिंग अपने डिवाइस पर संभव नहीं है बुलाओ!</string>
+
+    <string name="search">खोज</string>
+    <string name="rate">आप गूगल प्ले में अनुप्रयोग दर?</string>
+    <string name="pref_rating">оценка</string>
+
+    <!--#######################################################################################-->
+
+    <string name="pref_audioformat">формат_аудио</string>
+    <string name="pref_white_list">белый лист</string>
+    <string name="pref_white">вкл белый лист</string>
+
+    <string name="pref_black_list">черный лист</string>
+    <string name="pref_black">вкл черный лист</string>
+
+
+
+    <string name="filter">फ़िल्टर कॉल</string>
+
+    <string name="on_white_list">सफेद सूची सक्षम करें</string>
+    <string name="setting_white_list">सफेद सूची समायोजित करें</string>
+
+    <string name="on_black_list">ब्लैकलिस्ट सक्षम करें</string>
+    <string name="setting_black_list">काली सूची में समायोजित करें</string>
+
+
+
+    <string name="audioformat">ऑडियो फ़ाइल स्वरूप</string>
+    <string name="setaudioformat">आउटपुट स्वरूप ऑडियो फाइल का चयन करें</string>
+    <string name="changeaudioformat">उत्पादन ऑडियो फाइल के प्रारूप का चयन करें</string>
+
+    <string name="gp3format">3GPP</string>
+    <string name="mp4format">MPEG-4</string>
+    <string name="AMR_NBformat">AMR_NB</string>
+
+    <string name="writeToDeveloper">ईमेल डेवलपर</string>
+    <string name="send_to_dev">पत्र भेजें</string>
+    <string name="theme_message">विषय</string>
+
+
+    <!--#######################################################################################-->
+
+    <string name="langOfSystem_pref">default</string>
+
+    <string name="pref_pathview">pathview</string>
+    <string name="customPref">customPref</string>
+
+    <string name="pref_email">адрес мэйла</string>
+    <string name="pref_email_pw">пароль мэйла</string>
+    <string name="pref_email_dest">адрес мэйла на который слать</string>
+    <string name="pref_emailsettingskey">пересылать ли на мэйл</string>
+
+    <string name="app_name" textsize="6dp">फोन रिकॉर्डर</string>
+
+    <string name="callrecords">रिकार्ड किए गए कॉल</string>
+
+    <string name="settings">सेटिंग्स</string>
+
+    <string name="stateOfrecord">रिकॉर्ड के राज्य:</string>
+
+    <string name="sound">ध्वनि रिकॉर्डिंग के स्रोत का चयन करें:</string>
+
+    <string name="voice">लाइन से एक फोन कॉल (सभी फोन के द्वारा समर्थित नहीं) रिकॉर्डिंग</string>
+    <string name="mic">रिकॉर्ड निर्मित माइक्रोफोन (बुरा ऑडियो साथी हो सकते हैं) का उपयोग</string>
+    <string name="comm">माइक्रोफोन से ऑडियो स्ट्रीम) (यदि उपलब्ध हो) वीओआईपी के लिए "बंद" हो जाएगा</string>
+
+
+
+    <string name="open">खुला</string>
+
+    <string name="delete">हटाना</string>
+    <string name="cancel">रद्द करना</string>
+    <string name="icon">Icon</string>
+    <string name="exit">उत्पादन</string>
+
+    <string name="ist_rec_sound">ध्वनि रिकॉर्डिंग के स्रोत</string>
+    <string name="inst_ist_rec_sound">ध्वनि रिकॉर्डिंग के स्रोत की स्थापना</string>
+    <string name="change_ist_rec_sound">ध्वनि रिकॉर्डिंग के स्रोत का चयन करें</string>
+
+
+    <!--#######################################################################################-->
+    <string name="emailSettings">एक गेटवे का विन्यास</string>
+    <string name="email">गेटवे पता</string>
+    <string name="emailaction">जीमेल पर पीओ बॉक्स पते</string>
+    <string name="dialogemail">आप संदेश प्राप्त होगा जहां पता दर्ज</string>
+    <string name="emailpw">पासवर्ड प्रवेश द्वार</string>
+    <string name="emailactionpw">जीमेल पर मेलबॉक्स के लिए पासवर्ड</string>
+    <string name="dialogemailpw">पासवर्ड दर्ज</string>
+    <string name="emaildest">गंतव्य</string>
+    <string name="emailactiondest">आपका ईमेल पता (गेटवे पता किया जा सकता है)</string>
+    <string name="dialogemaildest">आप संदेश प्राप्त होगा जहां पता दर्ज</string>
+    <string name="emailkey">ईमेल करने के लिए अग्रेषित?</string>
+
+    <string name="path">फ़ाइलों का स्थान</string>
+    <string name="pathText">फ़ोल्डर का चयन करें</string>
+    <string name="pathText_manual">मैन्युअल पथ निर्दिष्ट</string>
+
+    <string name="LangTitle">भाषा</string>
+    <string name="LangDialogTitle">भाषा चुनें:</string>
+    <string name="LangSummary">आप परिवर्तन करने के लिए आवेदन को पुनः आरंभ करना होगा </string>
+    <string name="langOfSystem">डिफ़ॉल्ट रूप से</string>
+
+    <string name="yesAnswer">हां</string>
+    <string name="noAnswer">नहीं</string>
+    <string name="ok">बांज</string>
+    <string name="create_new_folder">नया फ़ोल्डर</string>
+    <string name="name_new_folder">फ़ोल्डर नाम</string>
+    <string name="fail_create">बनाने में त्रुटि</string>
+
+    <string name="uplink">केवल अपनी आवाज की रिकॉर्डिंग</string>
+    <string name="downlink">रिकॉर्ड भाषण केवल वार्ताकार</string>
+
+
+    <!--#######################################################################################-->
+
+
+    <string name="deleteAll">सभी निकालें</string>
+    <string name="is_ServiceWork">Состояние записи</string>
+    <string name="pref_openmode">Режим открытия</string>
+    <string name="play_str">PLAY</string>
+    <string name="pause_str">PAUSE</string>
+
+
+</resources>
+

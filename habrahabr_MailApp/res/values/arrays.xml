@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="ist_sound">
+        <item>@string/voice</item>
+        <item>@string/mic</item>
+        <item>@string/comm</item>
+        <item>@string/uplink</item>
+        <item>@string/downlink</item>
+
+    </string-array>
+
+    <string-array name="formats">
+        <item>@string/gp3format</item>
+        <item>@string/mp4format</item>
+        <item>@string/AMR_NBformat</item>
+
+
+    </string-array>
+
+
+    <string-array name="entries_lang">
+        <item>@string/langOfSystem</item>
+        <item>English</item>
+        <item>Русский</item>
+        <item>Deutsch</item>
+        <item>Español</item>
+        <item>Français</item>
+        <item>हिंदी</item>
+        <item>Italiano</item>
+        <item>ภาษาไทย</item>
+        <item>จีน (ประยุกต์)</item>
+        <item>日本人</item>
+        <item>한국어</item>
+        <item>Português</item>
+        <item>العربية</item>
+        <item>Việt</item>
+        <item>Ελληνικά</item>
+
+    </string-array>
+
+
+    <string-array name="entryvalues_lang">
+        <item>default</item>
+        <item>en</item>
+        <item>ru</item>
+        <item>de</item>
+        <item>es</item>
+        <item>fr</item>
+        <item>hi</item>
+        <item>it</item>
+        <item>th</item>
+        <item>zh</item>
+        <item>ja</item>
+        <item>ko</item>
+        <item>pt</item>
+        <item>ar</item>
+        <item>vi</item>
+        <item>el</item>
+
+    </string-array>
+
+
+</resources>

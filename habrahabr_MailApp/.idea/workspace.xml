@@ -1,0 +1,1686 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayoutPreviewToolWindow">
+    <option name="state">
+      <GlobalState>
+        <option name="visible" value="false" />
+      </GlobalState>
+    </option>
+  </component>
+  <component name="AndroidLayouts">
+    <shared>
+      <config>
+        <locale>ru</locale>
+        <target>android-17</target>
+      </config>
+    </shared>
+    <layouts>
+      <layout url="file://$PROJECT_DIR$/res/layout/ban.xml">
+        <config>
+          <device>Nexus 4</device>
+          <theme>@android:style/Theme.IconMenu</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/res/layout/extended_mail.xml">
+        <config>
+          <device>Nexus 4</device>
+          <theme>@android:style/Theme</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/res/layout/write_dev.xml">
+        <config>
+          <device>Nexus 4</device>
+          <theme>@android:style/Theme</theme>
+        </config>
+      </layout>
+    </layouts>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="12df8c48-3753-4b2d-ad19-28f9b00e88e0" name="Default" comment="" />
+    <ignored path="habrahabr_MailApp.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/ActivityMain.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1395007130346" ignored="false" />
+    <file path="/MailSenderClass.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1374091132256" ignored="false" />
+    <file path="/extended_mail.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1381652124907" ignored="false" />
+    <file path="$PROJECT_DIR$/../AndroidCalls/src/MailSenderClass.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1371807006453" ignored="false" />
+    <file path="$PROJECT_DIR$/../AndroidCalls/src/JSSEProvider.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1371807006453" ignored="false" />
+    <file path="$PROJECT_DIR$/../AndroidCalls/src/ActivityMain.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1371807006453" ignored="false" />
+    <file path="$PROJECT_DIR$/../AndroidCalls/src/ExtendedMail.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1371807006453" ignored="false" />
+    <file path="/fragment.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1429289415817" ignored="false" />
+    <file path="$PROJECT_DIR$/../AndroidCalls/src/com/bitgriff/androidcalls/MailSenderClass.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1371807051137" ignored="false" />
+    <file path="$PROJECT_DIR$/../AndroidCalls/src/com/bitgriff/androidcalls/JSSEProvider.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1371807050680" ignored="false" />
+    <file path="$PROJECT_DIR$/../AndroidCalls/src/com/bitgriff/androidcalls/ActivityMain.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1371807050680" ignored="false" />
+    <file path="$PROJECT_DIR$/../AndroidCalls/src/com/bitgriff/androidcalls/ExtendedMail.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1371807050680" ignored="false" />
+    <file path="$PROJECT_DIR$/../AndroidCalls/src/com/bitgriff/androidcalls/MainActivity.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1371808619640" ignored="false" />
+    <file path="/MainActivity.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1371808961074" ignored="false" />
+    <file path="/Dummy.txt" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1378649157692" ignored="false" />
+    <file path="$PROJECT_DIR$/res/layout/menu/activity_main.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1371808037983" ignored="false" />
+    <file path="/ExtendedMail.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1371809492050" ignored="false" />
+    <file path="/CallHelper.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1394992927588" ignored="false" />
+    <file path="/AndroidManifest.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1394995429564" ignored="false" />
+    <file path="/strings.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1430992075599" ignored="false" />
+    <file path="/CallDetectService.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1372236571067" ignored="false" />
+    <file path="/PriorityForService.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1372137765460" ignored="false" />
+    <file path="$PROJECT_DIR$/../ANDROID/CD/Samples/Ch06_Button/AndroidManifest.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1372153676240" ignored="false" />
+    <file path="$PROJECT_DIR$/../ANDROID/CD/Samples/Ch06_Button/src/com/samples/button/ButtonActivity.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1372244713811" ignored="false" />
+    <file path="$PROJECT_DIR$/../ANDROID/CD/Samples/Ch06_Button/src/com/samples/button/MessageReceiver.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1372153742151" ignored="false" />
+    <file path="/MessageReceiver.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1394993105606" ignored="false" />
+    <file path="/SendMessageReceiver.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1372166621639" ignored="false" />
+    <file path="/OutgoingSmsObserver.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1372166931888" ignored="false" />
+    <file path="$PROJECT_DIR$/src/com/habra/example/com/OutgoingSmsObserverImpl.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1372167302857" ignored="false" />
+    <file path="$PROJECT_DIR$/src/com/habra/example/com/OutgoingSmsObserver.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1372228830454" ignored="false" />
+    <file path="/OnBootReceiver.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1381936605693" ignored="false" />
+    <file path="/ButtonActivity.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1372243390555" ignored="false" />
+    <file path="$PROJECT_DIR$/../ANDROID/CD/Samples/Ch06_Button/gen/com/samples/button/BuildConfig.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1372240300366" ignored="false" />
+    <file path="/ServiceStartUpReciever.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1372309366431" ignored="false" />
+    <file path="/ControlMessageReceiver.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1374171771696" ignored="false" />
+    <file path="/GingerbreadLastLocationFinder.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1372398645010" ignored="false" />
+    <file path="/Camera.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1372401126060" ignored="false" />
+    <file path="/Cameras.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1372830423302" ignored="false" />
+    <file path="$PROJECT_DIR$/../CameraTest/AndroidManifest.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1372404918010" ignored="false" />
+    <file path="$PROJECT_DIR$/../CameraTest/src/mj/android/cameratest/CameraTestActivity.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1372409586604" ignored="false" />
+    <file path="/CameraTestActivity.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1372409153586" ignored="false" />
+    <file path="$PROJECT_DIR$/../CameraTest/res/layout/main.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1372409767821" ignored="false" />
+    <file path="/main.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1378377911388" ignored="false" />
+    <file path="/AudioRecord.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1372746665300" ignored="false" />
+    <file path="$PROJECT_DIR$/../IBMAudio/src/com/msi/ibm/audio/IBMAudio.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1372665323885" ignored="false" />
+    <file path="/IBMAudio.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1372761674057" ignored="false" />
+    <file path="/LocationGPS.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1372686023240" ignored="false" />
+    <file path="/AudioRec.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1372833524889" ignored="false" />
+    <file path="/AudioRecService.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1372828287531" ignored="false" />
+    <file path="/ActivityRECORD.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1372752987976" ignored="false" />
+    <file path="/BackgroundClass.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1372763321605" ignored="false" />
+    <file path="/ChangeAdressAndName.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1372834904639" ignored="false" />
+    <file path="/GPSloc.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1372845237326" ignored="false" />
+    <file path="/GPSService.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1372845298898" ignored="false" />
+    <file path="/GPSTEST.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1394993779545" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Проект/habrahabr_MailApp/gen/com/habra/example/com/BuildConfig.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1373453291256" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Проект/habrahabr_MailApp/res/layout/main.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1373453320748" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Проект/habrahabr_MailApp/src/com/habra/example/myfile/MailSenderClass.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1373456655623" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Проект/habrahabr_MailApp/src/com/habra/example/myfile/AccountClass.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1373456630108" ignored="false" />
+    <file path="/AccountClass.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1373972706453" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Проект/habrahabr_MailApp/src/com/habra/example/myfile/BrowserClass.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1373453570582" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Проект/habrahabr_MailApp/src/com/habra/example/myfile/JSSEProvider.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1373456345436" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Проект/habrahabr_MailApp/src/com/habra/example/myfile/CallHelper.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1373456675188" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Проект/habrahabr_MailApp/src/com/habra/example/myfile/MyApp.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1373456951035" ignored="false" />
+    <file path="/MyApp.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1373461473250" ignored="false" />
+    <file path="/MailSender.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1373525974306" ignored="false" />
+    <file path="/EMailSender.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1373534706630" ignored="false" />
+    <file path="/JSSEProvider.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1373540090679" ignored="false" />
+    <file path="/javamail.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1373534760633" ignored="false" />
+    <file path="/MyJavaMailClass.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1373539289486" ignored="false" />
+    <file path="/MyJavaMail.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1373538379508" ignored="false" />
+    <file path="/Parametrs.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1373539520201" ignored="false" />
+    <file path="/Param.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1384711569049" ignored="false" />
+    <file path="$PROJECT_DIR$/../../резервная копия/TEST/habrahabr_MailApp/src/com/habra/example/com/MessageReceiver.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1373956528999" ignored="false" />
+    <file path="$PROJECT_DIR$/../../резервная копия/TEST/habrahabr_MailApp/src/com/habra/example/com/Cameras.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1373956528999" ignored="false" />
+    <file path="$PROJECT_DIR$/../../резервная копия/TEST/habrahabr_MailApp/src/com/habra/example/com/CallDetectService.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1373956528999" ignored="false" />
+    <file path="$PROJECT_DIR$/../../резервная копия/TEST/habrahabr_MailApp/src/com/habra/example/com/AccountClass.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1373956528999" ignored="false" />
+    <file path="$PROJECT_DIR$/../../резервная копия/TEST/habrahabr_MailApp/src/com/habra/example/com/RecordCall.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1373956528999" ignored="false" />
+    <file path="$PROJECT_DIR$/../../резервная копия/TEST/habrahabr_MailApp/AndroidManifest.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1373956528999" ignored="false" />
+    <file path="$PROJECT_DIR$/../../резервная копия/TEST/habrahabr_MailApp/src/com/habra/example/com/AudioRecService.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1373956528999" ignored="false" />
+    <file path="$PROJECT_DIR$/../../резервная копия/TEST/habrahabr_MailApp/src/com/habra/example/com/OnBootReceiver.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1373956528999" ignored="false" />
+    <file path="$PROJECT_DIR$/../../резервная копия/TEST/habrahabr_MailApp/src/com/habra/example/com/AudioRec.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1373956528999" ignored="false" />
+    <file path="$PROJECT_DIR$/../../резервная копия/TEST/habrahabr_MailApp/src/com/habra/example/com/MailSenderClass.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1373956529000" ignored="false" />
+    <file path="$PROJECT_DIR$/../../резервная копия/TEST/habrahabr_MailApp/src/com/habra/example/com/BrowserClass.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1373956529000" ignored="false" />
+    <file path="$PROJECT_DIR$/../../резервная копия/TEST/habrahabr_MailApp/src/com/habra/example/com/RecordCallService.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1373956529000" ignored="false" />
+    <file path="$PROJECT_DIR$/../../резервная копия/TEST/habrahabr_MailApp/src/com/habra/example/com/JSSEProvider.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1373956529000" ignored="false" />
+    <file path="$PROJECT_DIR$/../../резервная копия/TEST/habrahabr_MailApp/src/com/habra/example/com/ControlMessageReceiver.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1373956529000" ignored="false" />
+    <file path="$PROJECT_DIR$/../../резервная копия/TEST/habrahabr_MailApp/src/com/habra/example/com/GPSTEST.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1373956529000" ignored="false" />
+    <file path="$PROJECT_DIR$/../../резервная копия/TEST/habrahabr_MailApp/src/com/habra/example/com/CallHelper.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1373956529000" ignored="false" />
+    <file path="/Music.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1374175935553" ignored="false" />
+    <file path="/javamail_function.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1379179559323" ignored="false" />
+    <file path="/a.dummy" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1374091950635" ignored="false" />
+    <file path="$PROJECT_DIR$/../../резервная копия/TEST/habrahabr_MailApp/src/com/habra/example/com/Param.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1374138201939" ignored="false" />
+    <file path="$PROJECT_DIR$/../../TEST/habrahabr_MailApp/src/com/habra/example/com/OnBootReceiver.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1374147883197" ignored="false" />
+    <file path="$PROJECT_DIR$/../../TEST/habrahabr_MailApp/src/com/habra/example/com/Param.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1374856585153" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Eyes/src/com/msi/ibm/eyes/R.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1374151169571" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Eyes/src/com/msi/ibm/eyes/Music.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1374175991615" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Eyes/AndroidManifest.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1374179158046" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Eyes/src/com/msi/ibm/eyes/IBMEyes.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1374181463142" ignored="false" />
+    <file path="/IBMEyes.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1374181171531" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Eyes/gen/com/msi/ibm/eyes/Manifest.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1374179285384" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Eyes/gen/com/msi/ibm/eyes/R.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1374179285384" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Eyes/src/com/msi/ibm/eyes/Timevoice.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1374179060376" ignored="false" />
+    <file path="/Timevoice.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1374178814731" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Eyes/gen/com/msi/ibm/eyes/BuildConfig.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1374179294319" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Новая папка (3)/.idea/workspace.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1374426034969" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Новая папка (3)/.idea/misc.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1374426030163" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Новая папка (3)/source/SpeechRepeatActivity.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1374426079473" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Новая папка (3)/source/.idea/workspace.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1374426096437" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Новая папка (3)/source/.idea/misc.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1374426096437" ignored="false" />
+    <file path="/ListenToSpeechService.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1374439422957" ignored="false" />
+    <file path="/VoiceRecognitionSettings.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1374439276635" ignored="false" />
+    <file path="/RecognitionService.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1374485719534" ignored="false" />
+    <file path="/MyRecognitionListener.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1374515549496" ignored="false" />
+    <file path="/MyRecognitionListenerService.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1374557507939" ignored="false" />
+    <file path="$PROJECT_DIR$/../../TEST/habrahabr_MailApp/gen/com/habra/example/com/BuildConfig.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1374856691300" ignored="false" />
+    <file path="/hello_widget_provider.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1378402495247" ignored="false" />
+    <file path="/wig.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1380915088788" ignored="false" />
+    <file path="/HelloWidget.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1378757615562" ignored="false" />
+    <file path="/DatabasHelper.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1378404943500" ignored="false" />
+    <file path="/RecordCall.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1430992007494" ignored="false" />
+    <file path="/main1.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1378743983844" ignored="false" />
+    <file path="/ActivityOptionMenu.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1378636807138" ignored="false" />
+    <file path="/settings.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1378637758935" ignored="false" />
+    <file path="/MAIN.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1381652526663" ignored="false" />
+    <file path="/ActivitySettings.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1380042775193" ignored="false" />
+    <file path="$USER_HOME$/многоязычное приложение/Select lang preferences/src/com/example/boom/lang/MainActivity.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1378719951668" ignored="false" />
+    <file path="/RecordCallService.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1393081489152" ignored="false" />
+    <file path="$USER_HOME$/Виджет_запись разговоров/habrahabr_MailApp/src/com/habra/example/com/RecordCallService.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1378751285997" ignored="false" />
+    <file path="$USER_HOME$/Виджет_запись разговоров/habrahabr_MailApp/src/com/habra/example/com/RecordCall.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1378757436706" ignored="false" />
+    <file path="$USER_HOME$/Виджет_запись разговоров/habrahabr_MailApp/src/com/habra/example/com/HelloWidget.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1378809231278" ignored="false" />
+    <file path="$USER_HOME$/Виджет_запись разговоров/habrahabr_MailApp/src/com/habra/example/com/ActivityMain.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1378751285997" ignored="false" />
+    <file path="$USER_HOME$/Виджет_запись разговоров/habrahabr_MailApp/res/layout/main1.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1378751285997" ignored="false" />
+    <file path="$USER_HOME$/Виджет_запись разговоров/habrahabr_MailApp/res/layout/extended_mail.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1378751285997" ignored="false" />
+    <file path="/MobclixBrowserActivity.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1379194960371" ignored="false" />
+    <file path="/banner.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1379220327181" ignored="false" />
+    <file path="$USER_HOME$/ads/ads-and-ux/gen/com/example/training/ads/BuildConfig.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1379225509929" ignored="false" />
+    <file path="/ad.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1379226327306" ignored="false" />
+    <file path="/ban.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1429283427753" ignored="false" />
+    <file path="D:/ANDROID/CD/Samples/Ch07_ListView/gen/com/samples/listview/BuildConfig.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1379349816578" ignored="false" />
+    <file path="D:/ANDROID/CD/Samples/Ch07_ListView/src/com/samples/listview/ListViewActivity.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1379351424269" ignored="false" />
+    <file path="/ListViewActivity.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1379349954474" ignored="false" />
+    <file path="/list_item.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1379424432675" ignored="false" />
+    <file path="$USER_HOME$/SimpleBD/SimpleDB/gen/mj/android/simpledb/BuildConfig.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1379591221444" ignored="false" />
+    <file path="/MyData.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1379857107574" ignored="false" />
+    <file path="/DBConnector.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1384707244129" ignored="false" />
+    <file path="/item.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1380544451466" ignored="false" />
+    <file path="/AddActivity.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1379857276764" ignored="false" />
+    <file path="/add.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1379597139771" ignored="false" />
+    <file path="$USER_HOME$/SimpleBD/SimpleDB/src/mj/android/simpledb/SimpleDBActivity.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1379606398522" ignored="false" />
+    <file path="/context_menu.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1384874968247" ignored="false" />
+    <file path="$USER_HOME$/TEST/habrahabr_MailApp/src/com/habra/example/com/CallHelper.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1379691463471" ignored="false" />
+    <file path="$USER_HOME$/MyProject/habrahabr_MailApp/src/com/habra/example/com/ActivityMain.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1379836930117" ignored="false" />
+    <file path="/main_menu.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1382382514804" ignored="false" />
+    <file path="/ActivityPlayer.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1380022160220" ignored="false" />
+    <file path="/arrays.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1400104252107" ignored="false" />
+    <file path="/preference.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1429283076437" ignored="false" />
+    <file path="/SettingActivity.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1394872910693" ignored="false" />
+    <file path="/btn_toggle_bg.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1382182980839" ignored="false" />
+    <file path="$PROJECT_DIR$/gen/com/habra/example/com/R.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1430993229418" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Новая папка (4)/MyProject/habrahabr_MailApp/gen/com/habra/example/comCallRecorderPro/Manifest.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1380475127721" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Новая папка (4)/MyProject/habrahabr_MailApp/gen/com/habra/example/comCallRecorderPro/R.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1380475128321" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Новая папка (4)/MyProject/habrahabr_MailApp/gen/com/habra/example/comCallRecorderPro/BuildConfig.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1380475153919" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Новая папка (4)/MyProject/habrahabr_MailApp/.idea/workspace.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1380476441319" ignored="false" />
+    <file path="$USER_HOME$/1_05 версия платная/habrahabr_MailApp/.idea/workspace.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1380547594067" ignored="false" />
+    <file path="$USER_HOME$/1_05 версия платная/habrahabr_MailApp/res/layout/ban.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1380547552422" ignored="false" />
+    <file path="$PROJECT_DIR$/../../email/habrahabr_MailApp/gen/com/habra/example/com/BuildConfig.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1380651968391" ignored="false" />
+    <file path="$PROJECT_DIR$/../../email/habrahabr_MailApp/res/layout/extended_mail.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1380652124829" ignored="false" />
+    <file path="/translate.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1380829532373" ignored="false" />
+    <file path="/DialogChooseDirectory.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1380892350032" ignored="false" />
+    <file path="/textView.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1380892367932" ignored="false" />
+    <file path="/DirectoryChooserDialog.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1380904776681" ignored="false" />
+    <file path="/FilterContact.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1381521542891" ignored="false" />
+    <file path="/contact_list.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1381950979364" ignored="false" />
+    <file path="/ActivityContact.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1381950706828" ignored="false" />
+    <file path="/itemForContact.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1381663412521" ignored="false" />
+    <file path="/WriteToDev.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1381777045597" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Виджет_запись разговоров/habrahabr_MailApp/src/com/habra/example/com/ActivitySettings.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1381770601148" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Виджет_запись разговоров/habrahabr_MailApp/res/layout/main1.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1381770601148" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Виджет_запись разговоров/habrahabr_MailApp/src/com/habra/example/com/ActivityMain.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1381770601148" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Виджет_запись разговоров/habrahabr_MailApp/res/layout/extended_mail.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1381770601148" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Виджет_запись разговоров/habrahabr_MailApp/src/com/habra/example/com/MAIN.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1381770601148" ignored="false" />
+    <file path="/write_dev.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1381775999876" ignored="false" />
+    <file path="/ActivityContactBlack.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1381982239112" ignored="false" />
+    <file path="$PROJECT_DIR$/gen/com/habra/example/com/BuildConfig.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1429391249861" ignored="false" />
+    <file path="$PROJECT_DIR$/../../SearchViewDemo/.idea/workspace.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1382099827217" ignored="false" />
+    <file path="$PROJECT_DIR$/../../SearchViewDemo/.idea/misc.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1382099683931" ignored="false" />
+    <file path="/themes.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1382378080654" ignored="false" />
+    <file path="/btn_toggle.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1382180430552" ignored="false" />
+    <file path="/style.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1382187524678" ignored="false" />
+    <file path="/thumb.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1382295446303" ignored="false" />
+    <file path="/edittext.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1382298763568" ignored="false" />
+    <file path="$PROJECT_DIR$/../../1_13 версия/habrahabr_MailApp/gen/com/habra/example/com/Manifest.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1382539716224" ignored="false" />
+    <file path="$PROJECT_DIR$/../../1_13 версия/habrahabr_MailApp/gen/com/habra/example/com/R.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1382539716224" ignored="false" />
+    <file path="$PROJECT_DIR$/../../1_13 версия/habrahabr_MailApp/gen/com/habra/example/com/BuildConfig.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1382539722731" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Call Recorder/1_12 версия/habrahabr_MailApp/src/com/habra/example/com/ActivityMain.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1382545619407" ignored="false" />
+    <file path="/SampleActivity.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1382722998277" ignored="false" />
+    <file path="/sample.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1382722762512" ignored="false" />
+    <file path="$PROJECT_DIR$/../../LAME4Android/src/com/samsung/sample/lame4android/LameActivity.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1382808490315" ignored="false" />
+    <file path="/LameActivity.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1382808483269" ignored="false" />
+    <file path="$PROJECT_DIR$/../../PRO reserve 27_10_2013/1_06 версия/habrahabr_MailApp/gen/com/habra/example/com/R.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1382907567515" ignored="false" />
+    <file path="$PROJECT_DIR$/../../PRO reserve 27_10_2013/1_06 версия/habrahabr_MailApp/AndroidManifest.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1382976270653" ignored="false" />
+    <file path="$PROJECT_DIR$/../../PRO reserve 27_10_2013/1_06 версия/habrahabr_MailApp/gen/com/habra/example/call_recorder/BuildConfig.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1382976289392" ignored="false" />
+    <file path="$PROJECT_DIR$/../../habrahabr_MailApp/.idea/workspace.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1383562763709" ignored="false" />
+    <file path="$PROJECT_DIR$/../../habrahabr_MailApp/src/com/habra/example/call_recorder/Param.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1383559207317" ignored="false" />
+    <file path="$PROJECT_DIR$/../../habrahabr_MailApp/AndroidManifest.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1383559258428" ignored="false" />
+    <file path="$PROJECT_DIR$/../../habrahabr_MailApp/gen/com/habra/example/call_recorder/R.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1383559262883" ignored="false" />
+    <file path="$PROJECT_DIR$/../../habrahabr_MailApp/gen/com/habra/example/call_recorder/BuildConfig.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1383559354593" ignored="false" />
+    <file path="$PROJECT_DIR$/../../habrahabr_MailApp/src/com/habra/example/call_recorder/ActivityMain.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1383560644970" ignored="false" />
+    <file path="$PROJECT_DIR$/../../1_20 PRO - копия/habrahabr_MailApp/src/com/habra/example/call_recorder/ChatHeadService.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1383585594050" ignored="false" />
+    <file path="$PROJECT_DIR$/../../1_20 PRO - копия/habrahabr_MailApp/AndroidManifest.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1383585732177" ignored="false" />
+    <file path="$PROJECT_DIR$/../../1_24 PRO/habrahabr_MailApp/src/com/habra/example/call_recorder/RecordCall.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1384078417343" ignored="false" />
+    <file path="$PROJECT_DIR$/../../1_24 PRO/habrahabr_MailApp/src/com/habra/example/call_recorder/ActivityMain.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1384074247732" ignored="false" />
+    <file path="$PROJECT_DIR$/../../1_24 PRO/habrahabr_MailApp/AndroidManifest.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1384015214490" ignored="false" />
+    <file path="$PROJECT_DIR$/../../1_24 PRO/habrahabr_MailApp/src/com/habra/example/call_recorder/RecordCallService.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1384027423791" ignored="false" />
+    <file path="$PROJECT_DIR$/../../1_24 PRO/habrahabr_MailApp/res/layout/ban.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1384080856659" ignored="false" />
+    <file path="$PROJECT_DIR$/../../1_24 PRO/habrahabr_MailApp/res/xml/preference.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1384025713268" ignored="false" />
+    <file path="$PROJECT_DIR$/../../1_24 PRO/habrahabr_MailApp/res/values-ru/strings.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1384026108826" ignored="false" />
+    <file path="$PROJECT_DIR$/../../1_24 PRO/habrahabr_MailApp/res/values-th/strings.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1384028275340" ignored="false" />
+    <file path="$PROJECT_DIR$/../../1_24 PRO/habrahabr_MailApp/res/values-vi/strings.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1384028297294" ignored="false" />
+    <file path="$PROJECT_DIR$/../../1_24 PRO/habrahabr_MailApp/res/values-zh/strings.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1384028324506" ignored="false" />
+    <file path="$PROJECT_DIR$/../../1_24 PRO/habrahabr_MailApp/res/values-pt/strings.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1384028253481" ignored="false" />
+    <file path="$PROJECT_DIR$/../../1_24 PRO/habrahabr_MailApp/res/values-ko/strings.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1384028213991" ignored="false" />
+    <file path="$PROJECT_DIR$/../../1_24 PRO/habrahabr_MailApp/res/values-ja/strings.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1384028191272" ignored="false" />
+    <file path="$PROJECT_DIR$/../../1_24 PRO/habrahabr_MailApp/res/values-it/strings.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1384028168550" ignored="false" />
+    <file path="$PROJECT_DIR$/../../1_24 PRO/habrahabr_MailApp/res/values-hi/strings.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1384028145971" ignored="false" />
+    <file path="$PROJECT_DIR$/../../1_24 PRO/habrahabr_MailApp/res/values-fr/strings.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1384076691422" ignored="false" />
+    <file path="$PROJECT_DIR$/../../1_24 PRO/habrahabr_MailApp/res/values-es/strings.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1384028088001" ignored="false" />
+    <file path="$PROJECT_DIR$/../../1_24 PRO/habrahabr_MailApp/res/values-de/strings.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1384028025605" ignored="false" />
+    <file path="$PROJECT_DIR$/../../1_24 PRO/habrahabr_MailApp/res/values-ar/strings.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1384028002805" ignored="false" />
+    <file path="$PROJECT_DIR$/../../1_24 PRO/habrahabr_MailApp/res/values/strings.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1384027979176" ignored="false" />
+    <file path="$PROJECT_DIR$/../../1_25 PRO/habrahabr_MailApp/res/values-fr/strings.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1400146725116" ignored="false" />
+    <file path="$PROJECT_DIR$/../../1_25 PRO/habrahabr_MailApp/res/values/strings.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1400146076348" ignored="false" />
+    <file path="$PROJECT_DIR$/../../1_25 PRO/habrahabr_MailApp/AndroidManifest.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1431199778693" ignored="false" />
+    <file path="$PROJECT_DIR$/../../1_25 PRO/habrahabr_MailApp/src/com/habra/example/call_recorder/RecordCallService.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1393081526999" ignored="false" />
+    <file path="$PROJECT_DIR$/../../1_25 PRO/habrahabr_MailApp/src/com/habra/example/call_recorder/Param.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1384711571125" ignored="false" />
+    <file path="$PROJECT_DIR$/../../1_25 PRO/habrahabr_MailApp/src/com/habra/example/call_recorder/RecordCall.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1393064306537" ignored="false" />
+    <file path="/RecordCallWithoutGoodok.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1384689665668" ignored="false" />
+    <file path="$PROJECT_DIR$/../../1_25 PRO/habrahabr_MailApp/src/com/habra/example/call_recorder/RecordCallWithoutGoodok.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1384692858860" ignored="false" />
+    <file path="$PROJECT_DIR$/../../1_25 PRO/habrahabr_MailApp/res/xml/preference.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1400092250111" ignored="false" />
+    <file path="$PROJECT_DIR$/../../1_25 PRO/habrahabr_MailApp/res/values-ru/strings.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1400146725116" ignored="false" />
+    <file path="$PROJECT_DIR$/../../1_25 PRO/habrahabr_MailApp/src/com/habra/example/call_recorder/DBConnector.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1384707278259" ignored="false" />
+    <file path="$PROJECT_DIR$/../../1_25 PRO/habrahabr_MailApp/src/com/habra/example/call_recorder/ActivityMain.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1395007556815" ignored="false" />
+    <file path="$PROJECT_DIR$/../../1_25 PRO/habrahabr_MailApp/res/menu/context_menu.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1384874970209" ignored="false" />
+    <file path="$PROJECT_DIR$/../../1_25 PRO/habrahabr_MailApp/res/values-ar/strings.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1400146584162" ignored="false" />
+    <file path="$PROJECT_DIR$/../../1_25 PRO/habrahabr_MailApp/res/values-de/strings.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1400146653765" ignored="false" />
+    <file path="$PROJECT_DIR$/../../1_25 PRO/habrahabr_MailApp/res/values-es/strings.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1400146725116" ignored="false" />
+    <file path="$PROJECT_DIR$/../../1_25 PRO/habrahabr_MailApp/res/values-hi/strings.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1400146725116" ignored="false" />
+    <file path="$PROJECT_DIR$/../../1_25 PRO/habrahabr_MailApp/res/values-it/strings.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1400146725116" ignored="false" />
+    <file path="$PROJECT_DIR$/../../1_25 PRO/habrahabr_MailApp/res/values-ja/strings.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1400146725116" ignored="false" />
+    <file path="$PROJECT_DIR$/../../1_25 PRO/habrahabr_MailApp/res/values-ko/strings.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1400146725116" ignored="false" />
+    <file path="$PROJECT_DIR$/../../1_25 PRO/habrahabr_MailApp/res/values-pt/strings.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1400146725116" ignored="false" />
+    <file path="$PROJECT_DIR$/../../1_25 PRO/habrahabr_MailApp/res/values-th/strings.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1400146725116" ignored="false" />
+    <file path="$PROJECT_DIR$/../../1_25 PRO/habrahabr_MailApp/res/values-vi/strings.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1400146725116" ignored="false" />
+    <file path="$PROJECT_DIR$/../../1_25 PRO/habrahabr_MailApp/res/values-zh/strings.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1400146725116" ignored="false" />
+    <file path="$PROJECT_DIR$/../../1_25 PRO/habrahabr_MailApp/gen/com/habra/example/call_recorder/BuildConfig.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1395007742707" ignored="false" />
+    <file path="$PROJECT_DIR$/gen/com/habra/example/com/Manifest.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1390660565714" ignored="false" />
+    <file path="$PROJECT_DIR$/../../TEST/habrahabr_MailApp/.idea/workspace.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1391761058786" ignored="false" />
+    <file path="$PROJECT_DIR$/../../1_25 PRO/habrahabr_MailApp/gen/com/habra/example/call_recorder/Manifest.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1393084533854" ignored="false" />
+    <file path="$PROJECT_DIR$/../../TEST2/TEST - копия/habrahabr_MailApp/.idea/workspace.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1394978211291" ignored="false" />
+    <file path="$PROJECT_DIR$/../../TEST2/TEST - копия/habrahabr_MailApp/src/com/habra/example/com/CallHelper.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1394871845274" ignored="false" />
+    <file path="$PROJECT_DIR$/../../TEST2/TEST - копия/habrahabr_MailApp/src/com/habra/example/com/MessageReceiver.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1394620238715" ignored="false" />
+    <file path="$PROJECT_DIR$/../../TEST2/TEST - копия/habrahabr_MailApp/src/com/habra/example/com/Cameras.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1394620238715" ignored="false" />
+    <file path="$PROJECT_DIR$/../../TEST2/TEST - копия/habrahabr_MailApp/src/com/habra/example/com/ControlMessageReceiver.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1394620240106" ignored="false" />
+    <file path="$PROJECT_DIR$/../../TEST2/TEST - копия/habrahabr_MailApp/src/com/habra/example/com/SettingActivity.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1394620240106" ignored="false" />
+    <file path="$PROJECT_DIR$/../../TEST2/TEST - копия/habrahabr_MailApp/gen/com/habra/example/service/R.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1394620238716" ignored="false" />
+    <file path="$PROJECT_DIR$/../../TEST2/TEST - копия/habrahabr_MailApp/src/com/habra/example/com/AccountClass.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1394620238716" ignored="false" />
+    <file path="$PROJECT_DIR$/../../TEST2/TEST - копия/habrahabr_MailApp/gen/com/habra/example/service/BuildConfig.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1394620238716" ignored="false" />
+    <file path="$PROJECT_DIR$/../../TEST2/TEST - копия/habrahabr_MailApp/gen/com/habra/example/service/Manifest.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1394620238716" ignored="false" />
+    <file path="$PROJECT_DIR$/../../TEST2/TEST - копия/habrahabr_MailApp/src/com/habra/example/com/AudioRec.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1394620324022" ignored="false" />
+    <file path="$PROJECT_DIR$/../../TEST2/TEST - копия/habrahabr_MailApp/src/com/habra/example/com/MailSenderClass.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1394620240106" ignored="false" />
+    <file path="$PROJECT_DIR$/../../TEST2/TEST - копия/habrahabr_MailApp/src/com/habra/example/com/BrowserClass.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1394620238716" ignored="false" />
+    <file path="$PROJECT_DIR$/../../TEST2/TEST - копия/habrahabr_MailApp/src/com/habra/example/com/GPSTEST.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1394620238716" ignored="false" />
+    <file path="$PROJECT_DIR$/../../TEST2/TEST - копия/habrahabr_MailApp/src/com/habra/example/com/OnBootReceiver.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1394620238716" ignored="false" />
+    <file path="$PROJECT_DIR$/../../TEST2/TEST - копия/habrahabr_MailApp/gen/com/habra/example/com/BuildConfig.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1394706071797" ignored="false" />
+    <file path="$PROJECT_DIR$/../../TEST2/TEST - копия/habrahabr_MailApp/AndroidManifest.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1394705871249" ignored="false" />
+    <file path="$PROJECT_DIR$/../../TEST2/TEST - копия/habrahabr_MailApp/res/xml/preference.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1394872424997" ignored="false" />
+    <file path="$PROJECT_DIR$/../../TEST2/TEST - копия/habrahabr_MailApp/gen/com/habra/example/com/R.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1394705987597" ignored="false" />
+    <file path="$PROJECT_DIR$/../../TEST2/TEST - копия/habrahabr_MailApp/gen/com/habra/example/com/Manifest.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1394705987597" ignored="false" />
+    <file path="$PROJECT_DIR$/../../1_25 PRO/habrahabr_MailApp/src/com/habra/example/call_recorder/SettingActivity.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1394872952816" ignored="false" />
+    <file path="$PROJECT_DIR$/../../.blacklistProject/.idea/workspace.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1394960999219" ignored="false" />
+    <file path="$PROJECT_DIR$/../../SECURITY/TEST - копия/habrahabr_MailApp/.idea/workspace.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1395002794776" ignored="false" />
+    <file path="$PROJECT_DIR$/../../SECURITY/TEST - копия/habrahabr_MailApp/src/com/habra/example/comMobileSecurity/BrowserClass.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1394993851674" ignored="false" />
+    <file path="/BrowserClass.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1394992124424" ignored="false" />
+    <file path="$PROJECT_DIR$/../../SECURITY/TEST - копия/habrahabr_MailApp/res/values/strings.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1394995224483" ignored="false" />
+    <file path="$PROJECT_DIR$/../../SECURITY/TEST - копия/habrahabr_MailApp/src/com/habra/example/comMobileSecurity/CallHelper.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1394993851674" ignored="false" />
+    <file path="$PROJECT_DIR$/../../SECURITY/TEST - копия/habrahabr_MailApp/src/com/habra/example/comMobileSecurity/Cameras.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1394992985435" ignored="false" />
+    <file path="$PROJECT_DIR$/../../SECURITY/TEST - копия/habrahabr_MailApp/src/com/habra/example/comMobileSecurity/MessageReceiver.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1394993105606" ignored="false" />
+    <file path="$PROJECT_DIR$/../../SECURITY/TEST - копия/habrahabr_MailApp/src/com/habra/example/comMobileSecurity/GPSTEST.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1394993851674" ignored="false" />
+    <file path="$PROJECT_DIR$/../../SECURITY/TEST - копия/habrahabr_MailApp/res/values/arrays.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1394994923950" ignored="false" />
+    <file path="$PROJECT_DIR$/../../SECURITY/TEST - копия/habrahabr_MailApp/res/values-ru/strings.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1394995304835" ignored="false" />
+    <file path="$PROJECT_DIR$/../../SECURITY/TEST - копия/habrahabr_MailApp/res/xml/preference.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1394999871351" ignored="false" />
+    <file path="$PROJECT_DIR$/../../SECURITY/TEST - копия/habrahabr_MailApp/src/com/habra/example/comMobileSecurity/MyApplication.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1394995389236" ignored="false" />
+    <file path="$PROJECT_DIR$/../../SECURITY/TEST - копия/habrahabr_MailApp/AndroidManifest.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1394995430354" ignored="false" />
+    <file path="$PROJECT_DIR$/../../SECURITY/TEST - копия/habrahabr_MailApp/gen/com/habra/example/comMobileSecurity/Manifest.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1394995457192" ignored="false" />
+    <file path="$PROJECT_DIR$/../../SECURITY/TEST - копия/habrahabr_MailApp/gen/com/habra/example/comMobileSecurity/R.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1394995457192" ignored="false" />
+    <file path="$PROJECT_DIR$/../../SECURITY/TEST - копия/habrahabr_MailApp/gen/com/habra/example/comMobileSecurity/BuildConfig.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1394995486463" ignored="false" />
+    <file path="$PROJECT_DIR$/../../1_25 PRO/habrahabr_MailApp/res/layout/ban.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1395007380149" ignored="false" />
+    <file path="$PROJECT_DIR$/../../1_25 PRO/habrahabr_MailApp/gen/com/habra/example/call_recorder/R.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1395007740604" ignored="false" />
+    <file path="$PROJECT_DIR$/../../16 марта/TEST2/TEST - копия/habrahabr_MailApp/.idea/workspace.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1400147618604" ignored="false" />
+    <file path="$PROJECT_DIR$/../../1_25 PRO/habrahabr_MailApp/res/values-el/strings.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1400146725116" ignored="false" />
+    <file path="$PROJECT_DIR$/../../1_23 FREE Free Free/habrahabr_MailApp/src/com/habra/example/comFreeFreeRecorder/ActivityContactBlack.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1429281502627" ignored="false" />
+    <file path="$PROJECT_DIR$/../../1_23 FREE Free Free/habrahabr_MailApp/src/com/habra/example/comFreeFreeRecorder/ActivityContact.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1429281502627" ignored="false" />
+    <file path="$PROJECT_DIR$/../../1_23 FREE Free Free/habrahabr_MailApp/src/com/habra/example/comFreeFreeRecorder/MAIN.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1429281502627" ignored="false" />
+    <file path="$PROJECT_DIR$/../../1_23 FREE Free Free/habrahabr_MailApp/.idea/workspace.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1429391447055" ignored="false" />
+    <file path="$PROJECT_DIR$/../../1_23 FREE Free Free/habrahabr_MailApp/gen/com/habra/example/comFreeFreeRecorder/Manifest.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1429332695337" ignored="false" />
+    <file path="$PROJECT_DIR$/../../1_23 FREE Free Free/habrahabr_MailApp/src/com/habra/example/comFreeFreeRecorder/MyApplication.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1429281498794" ignored="false" />
+    <file path="$PROJECT_DIR$/../../1_23 FREE Free Free/habrahabr_MailApp/gen/com/habra/example/comFreeFreeRecorder/BuildConfig.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1429332737349" ignored="false" />
+    <file path="$PROJECT_DIR$/../../1_23 FREE Free Free/habrahabr_MailApp/gen/com/habra/example/comFreeFreeRecorder/R.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1429332695337" ignored="false" />
+    <file path="$PROJECT_DIR$/../../1_23 FREE Free Free/habrahabr_MailApp/src/com/habra/example/comFreeFreeRecorder/SettingActivity.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1429281502627" ignored="false" />
+    <file path="$PROJECT_DIR$/../../1_23 FREE Free Free/habrahabr_MailApp/AndroidManifest.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1431198834115" ignored="false" />
+    <file path="$PROJECT_DIR$/../../1_23 FREE Free Free/habrahabr_MailApp/src/com/habra/example/comFreeFreeRecorder/Param.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1429281498795" ignored="false" />
+    <file path="$PROJECT_DIR$/../../1_23 FREE Free Free/habrahabr_MailApp/src/com/habra/example/comFreeFreeRecorder/DBConnector.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1429281502627" ignored="false" />
+    <file path="$PROJECT_DIR$/../../1_23 FREE Free Free/habrahabr_MailApp/src/com/habra/example/comFreeFreeRecorder/RecordCallService.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1429281502627" ignored="false" />
+    <file path="$PROJECT_DIR$/../../1_23 FREE Free Free/habrahabr_MailApp/src/com/habra/example/comFreeFreeRecorder/OnBootReceiver.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1429281502627" ignored="false" />
+    <file path="$PROJECT_DIR$/../../1_23 FREE Free Free/habrahabr_MailApp/src/com/habra/example/comFreeFreeRecorder/DirectoryChooserDialog.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1429281498795" ignored="false" />
+    <file path="$PROJECT_DIR$/../../1_23 FREE Free Free/habrahabr_MailApp/src/com/habra/example/comFreeFreeRecorder/WriteToDev.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1429281502627" ignored="false" />
+    <file path="$PROJECT_DIR$/../../1_23 FREE Free Free/habrahabr_MailApp/src/com/habra/example/comFreeFreeRecorder/MailSenderClass.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1429281498795" ignored="false" />
+    <file path="$PROJECT_DIR$/../../1_23 FREE Free Free/habrahabr_MailApp/src/com/habra/example/comFreeFreeRecorder/MyData.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1429281498795" ignored="false" />
+    <file path="$PROJECT_DIR$/../../1_23 FREE Free Free/habrahabr_MailApp/src/com/habra/example/comFreeFreeRecorder/HelloWidget.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1429281502627" ignored="false" />
+    <file path="$PROJECT_DIR$/../../1_23 FREE Free Free/habrahabr_MailApp/src/com/habra/example/comFreeFreeRecorder/ActivityMain.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1429283377709" ignored="false" />
+    <file path="$PROJECT_DIR$/../../1_23 FREE Free Free/habrahabr_MailApp/src/com/habra/example/comFreeFreeRecorder/RecordCall.java" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1429281502627" ignored="false" />
+    <file path="$PROJECT_DIR$/../../1_23 FREE Free Free/habrahabr_MailApp/res/xml/preference.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1429283079222" ignored="false" />
+    <file path="$PROJECT_DIR$/../../1_23 FREE Free Free/habrahabr_MailApp/res/layout/ban.xml" changelist="12df8c48-3753-4b2d-ad19-28f9b00e88e0" time="1429283434234" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="habrahabr_MailApp" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="strings.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/res/values-it/strings.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="8" selection-start="448" selection-end="448" vertical-scroll-proportion="0.023448275">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="strings.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/values-ja/strings.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="194" selection-start="245" selection-end="245" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="strings.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/values-ko/strings.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="204" selection-start="255" selection-end="255" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="strings.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/values-pt/strings.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="392" selection-start="444" selection-end="444" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="strings.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/values-ru/strings.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="369" selection-start="420" selection-end="420" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="strings.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/values-th/strings.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="321" selection-start="372" selection-end="372" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="strings.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/values-vi/strings.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="439" selection-start="490" selection-end="490" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="strings.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/values-zh/strings.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="134" selection-start="186" selection-end="186" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="31" selection-start="208" selection-end="208" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="strings.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/values-fr/strings.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="0" selection-start="51" selection-end="51" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="KEY_STORE_PATH" value="C:\Users\Виталий\Desktop\ключ андройд\KEYFORAPK" />
+    <option name="KEY_ALIAS" value="palladium.dev.corp" />
+    <option name="REMEMBER_PASSWORDS" value="true" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/habra/example/com/RecordCall.java" />
+        <option value="$PROJECT_DIR$/res/values-ar/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-de/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-el/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-es/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-hi/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-ja/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-ko/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-pt/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-ru/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-th/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-vi/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-zh/strings.xml" />
+        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/res/values-fr/strings.xml" />
+        <option value="$PROJECT_DIR$/res/values-it/strings.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1932" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>Imports</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AndroidDomInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="habrahabr_MailApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CallRecord" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="habrahabr_MailApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CallRecord" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com.habra.CallRecord" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="habrahabr_MailApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CallRecord" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com.habra.CallRecord" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="habrahabr_MailApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="habrahabr_MailApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="habrahabr_MailApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="habrahabr_MailApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="habrahabr_MailApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="habrahabr_MailApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="habrahabr_MailApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xml" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="habrahabr_MailApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="habrahabr_MailApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="values-zh" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="habrahabr_MailApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="habrahabr_MailApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="values-vi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="habrahabr_MailApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="habrahabr_MailApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="values-th" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="habrahabr_MailApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="habrahabr_MailApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="values-ru" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="habrahabr_MailApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="habrahabr_MailApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="values-pt" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="habrahabr_MailApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="habrahabr_MailApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="values-ko" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="habrahabr_MailApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="habrahabr_MailApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="values-ja" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="habrahabr_MailApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="habrahabr_MailApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="values-it" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="habrahabr_MailApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="habrahabr_MailApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="values-hi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="habrahabr_MailApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="habrahabr_MailApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="values-fr" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="habrahabr_MailApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="habrahabr_MailApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="values-es" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="habrahabr_MailApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="habrahabr_MailApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="values-el" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="habrahabr_MailApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="habrahabr_MailApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="values-de" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="habrahabr_MailApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="habrahabr_MailApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="values-ar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="habrahabr_MailApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="habrahabr_MailApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="values" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="habrahabr_MailApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="habrahabr_MailApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="menu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="habrahabr_MailApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="habrahabr_MailApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layout" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="habrahabr_MailApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="habrahabr_MailApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="habrahabr_MailApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="habrahabr_MailApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drawable-hdpi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="habrahabr_MailApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="habrahabr_MailApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="anim" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GenerateAntBuildDialog.generateIdeaHomeProperty" value="false" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="ExportedApkPath" value="C:\Users\Андрей\Desktop\habrahabr_MailApp\CallRecorderFree.apk" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="GenerateAntBuildDialog.generateSingleFile" value="false" />
+    <property name="ExportedModule" value="habrahabr_MailApp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../1_23 FREE Free Free/habrahabr_MailApp" />
+    <property name="GenerateAntBuildDialog.inclineRuntiemClasspath" value="false" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="habrahabr_mailapp" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="AndroidTargetDevices" value="emulator-5554" />
+    <property name="FullScreen" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="options.lastSelected" value="reference.settingsdialog.IDE.editor.colors.Font" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="AndroidRunProguardForReleaseBuild" value="false" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="options.searchVisible" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.habra.example.com" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Виталий\Desktop\1_23 FREE\habrahabr_MailApp\res\drawable-hdpi" />
+      <recent name="C:\Users\Виталий\Desktop\1_22 FREE\habrahabr_MailApp\res\drawable-hdpi" />
+      <recent name="C:\Users\Виталий\Desktop\1_06 версия\habrahabr_MailApp\res\drawable-hdpi" />
+      <recent name="C:\Users\Виталий\Desktop\1_06 версия\habrahabr_MailApp\res\values-vi" />
+      <recent name="C:\Users\Виталий\Desktop\1_06 версия\habrahabr_MailApp\src\com\habra\example\com" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.mobclix.android.sdk" />
+      <recent name="Com.mobclix.android.sdk" />
+      <recent name="com.habra.example.com" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Виталий\Desktop\Новая папка (4)\MyProject\habrahabr_MailApp\res\drawable-hdpi" />
+      <recent name="C:\Users\Виталий\Desktop\Новая папка (4)\MyProject\habrahabr_MailApp\res\xml" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android Application.habrahabr_MailApp">
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="USB_DEVICE" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GriffonRunConfigurationType" factoryName="Griffon">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="true" />
+      <setting name="passParentEnv" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="USB_DEVICE" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="habrahabr_MailApp" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="habrahabr_MailApp" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="USB_DEVICE" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <RunnerSettings RunnerId="AndroidDebugRunner" />
+      <ConfigurationWrapper RunnerId="AndroidDebugRunner" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Android Application.habrahabr_MailApp" />
+    </list>
+    <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SliceManager">
+    <option name="analysisUIOptions">
+      <AnalysisUIOptions />
+    </option>
+  </component>
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="12df8c48-3753-4b2d-ad19-28f9b00e88e0" name="Default" comment="" />
+      <created>1371619029069</created>
+      <updated>1371619029069</updated>
+      <workItem from="1371619039128" duration="5538000" />
+      <workItem from="1371804892062" duration="50328000" />
+      <workItem from="1372150356053" duration="11817000" />
+      <workItem from="1372163781881" duration="135000" />
+      <workItem from="1372164027385" duration="71535000" />
+      <workItem from="1372661485634" duration="3029000" />
+      <workItem from="1372664634510" duration="80739000" />
+      <workItem from="1373452992701" duration="153000" />
+      <workItem from="1373453282045" duration="2338000" />
+      <workItem from="1373457198348" duration="990000" />
+      <workItem from="1373458612972" duration="1283000" />
+      <workItem from="1373460178017" duration="31598000" />
+      <workItem from="1373549536452" duration="2171000" />
+      <workItem from="1373955912774" duration="9661000" />
+      <workItem from="1374047463039" duration="1483000" />
+      <workItem from="1374085642815" duration="23274000" />
+      <workItem from="1374171020592" duration="5221000" />
+      <workItem from="1374230387309" duration="18000" />
+      <workItem from="1374243542655" duration="41022000" />
+      <workItem from="1374853591850" duration="230000" />
+      <workItem from="1374854267043" duration="668000" />
+      <workItem from="1374856195973" duration="2257000" />
+      <workItem from="1374858469433" duration="1932000" />
+      <workItem from="1376728043243" duration="190000" />
+      <workItem from="1378375704435" duration="4078000" />
+      <workItem from="1378379815763" duration="4110000" />
+      <workItem from="1378401759286" duration="82903000" />
+      <workItem from="1379179346029" duration="160758000" />
+      <workItem from="1380135359428" duration="49582000" />
+      <workItem from="1380475122774" duration="785000" />
+      <workItem from="1380476431780" duration="30000" />
+      <workItem from="1380476550766" duration="36000" />
+      <workItem from="1380540669844" duration="6376000" />
+      <workItem from="1380547517210" duration="79000" />
+      <workItem from="1380650252761" duration="23743000" />
+      <workItem from="1380825176578" duration="36938000" />
+      <workItem from="1380946105216" duration="1893000" />
+      <workItem from="1381290360342" duration="1780000" />
+      <workItem from="1381432938183" duration="280000" />
+      <workItem from="1381516911178" duration="139221000" />
+      <workItem from="1382362172781" duration="33706000" />
+      <workItem from="1382545749791" duration="11789000" />
+      <workItem from="1382629138814" duration="8965000" />
+      <workItem from="1382721166673" duration="6765000" />
+      <workItem from="1382891857163" duration="1221000" />
+      <workItem from="1382895388112" duration="7092000" />
+      <workItem from="1382975033871" duration="1964000" />
+      <workItem from="1383555358068" duration="8060000" />
+      <workItem from="1383582512173" duration="1586000" />
+      <workItem from="1383937109875" duration="5557000" />
+      <workItem from="1383993363167" duration="17856000" />
+      <workItem from="1384164550889" duration="13256000" />
+      <workItem from="1384252524606" duration="1326000" />
+      <workItem from="1384685961276" duration="6028000" />
+      <workItem from="1385282098559" duration="24000" />
+      <workItem from="1386097202720" duration="1965000" />
+      <workItem from="1386356249277" duration="3214000" />
+      <workItem from="1387308143057" duration="16718000" />
+      <workItem from="1389648202928" duration="1684000" />
+      <workItem from="1390652030805" duration="1078000" />
+      <workItem from="1390660509087" duration="7066000" />
+      <workItem from="1391502749169" duration="3122000" />
+      <workItem from="1393055186802" duration="10958000" />
+      <workItem from="1394620084250" duration="1238000" />
+      <workItem from="1394705626496" duration="3676000" />
+      <workItem from="1394992024781" duration="2620000" />
+      <workItem from="1395000533501" duration="1145000" />
+      <workItem from="1395006400374" duration="2639000" />
+      <workItem from="1400061788086" duration="5742000" />
+      <workItem from="1400315407713" duration="402000" />
+      <workItem from="1414173014843" duration="778000" />
+      <workItem from="1417582307294" duration="616000" />
+      <workItem from="1424368373739" duration="1026000" />
+      <workItem from="1428005566601" duration="2619000" />
+      <workItem from="1428823836380" duration="1090000" />
+      <workItem from="1429128501466" duration="2007000" />
+      <workItem from="1429281097524" duration="11055000" />
+      <workItem from="1429392489653" duration="7503000" />
+      <workItem from="1430991598399" duration="3121000" />
+      <workItem from="1431198695047" duration="631000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1079110000" />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1932" height="1056" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39942113" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15016685" sideWeight="0.5026681" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32986832" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.16923895" sideWeight="0.0737798" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3291714" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292978" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24892241" sideWeight="0.84676504" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16737968" sideWeight="0.84983313" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34052214" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24622844" sideWeight="0.84676504" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29471982" sideWeight="0.84676504" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32965687" sideWeight="0.6708861" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.13762486" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.15016685" sideWeight="0.49733192" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="55" selection-start="57" selection-end="462" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-ar/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="344" selection-start="395" selection-end="395" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-de/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="418" selection-start="469" selection-end="469" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-el/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="414" selection-start="466" selection-end="466" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-es/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="410" selection-start="461" selection-end="461" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-hi/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="380" selection-start="431" selection-end="431" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-ja/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="194" selection-start="245" selection-end="245" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-ko/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="204" selection-start="255" selection-end="255" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-pt/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="392" selection-start="444" selection-end="444" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-ru/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="369" selection-start="420" selection-end="420" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-th/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="321" selection-start="372" selection-end="372" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-vi/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="439" selection-start="490" selection-end="490" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-zh/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="134" selection-start="186" selection-end="186" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="31" selection-start="208" selection-end="208" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-fr/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="51" selection-end="51" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values-it/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="8" selection-start="448" selection-end="448" vertical-scroll-proportion="0.023448275">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Android</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>habrahabr_MailApp</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>Android 4.2.2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>javamail_function</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+

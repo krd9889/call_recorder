@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TabHost xmlns:android="http://schemas.android.com/apk/res/android"
+         android:id="@android:id/tabhost"
+         android:layout_width="fill_parent"
+         android:layout_height="fill_parent">
+    <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent">
+        <TabWidget
+                android:id="@android:id/tabs"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:baselineAligned="true"
+                android:background="@android:color/darker_gray"
+                />
+
+        <FrameLayout
+                android:id="@android:id/tabcontent"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_gravity="center"
+                android:layout_marginRight="0dp"
+                android:layout_marginLeft="0dp"/>
+
+ <!--       <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text=""
+                android:layout_gravity="center_vertical|top"
+                android:gravity="center_horizontal|top"/>
+
+        <com.mobclix.android.sdk.MobclixMMABannerXLAdView
+                android:id="@+id/banner_ad"
+                android:layout_width="320dip"
+                android:layout_height="50dip"
+                android:layout_gravity="center"
+                android:autoStart="false"
+                android:animateFirstView="false"
+                />     -->
+
+    </LinearLayout>
+</TabHost>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="one_call">Uso gratuito del periodo del programma è finito. Al momento, la versione gratuita del programma può essere registrato una sola chiamata. Registrazione di tutte le chiamate disponibili nella versione a pagamento del programma. I vostri vecchi dischi di conversazioni non vengono eliminati. Questi file si trovano nella cartella "CALL_RECORDS" (default) o in un\
+        altra cartella specificati voi in precedenza.</string>
+    <string name="other_settings">Nascondere i tasti:</string>
+
+    <string name="up_priority">Aumenta la priorità del servizio</string>
+    <string name="stroke_cond">Mostra notifica</string>
+    <string name="pref_stroke_cond">уведомление в строке состояния</string>
+    <!--#######################################################################################-->
+    <string name="errorOfDisplay">Indicazione di errore</string>
+    <string name="errorTryFindFileOnSdcard">Controllare se vi è un file sulla scheda di memoria</string>
+    <string name="pref_hard_menu">есть ли кновка меню</string>
+    <!--#######################################################################################-->
+
+
+    <string name="pref_pro">хочет про версию?</string>
+    <string name="pro_version">Io non voglio comprare la versione a pagamento del programma (opzioni: password di accesso, nascondere i file audio, contatti foto, auto-cancellare, aggiungere note per le chiamate, la modalità di registrazione manuale durante una chiamata)</string>
+
+
+    <!--#######################################################################################-->
+    <string name="errorInitView">File non trovato! Forse è stato eliminato.</string>
+    <string name="error">Errore formato stabilire o fonte! Viene modificato in:</string>
+    <string name="errorAllCrash">Errore! Forse chiamare la registrazione non è possibile sul tuo dispositivo!</string>
+
+    <string name="search">Cerca</string>
+    <string name="rate">Valuti l\'app in Google Play?</string>
+    <string name="pref_rating">оценка</string>
+
+    <!--#######################################################################################-->
+
+    <string name="pref_audioformat">формат_аудио</string>
+    <string name="pref_white_list">белый лист</string>
+    <string name="pref_white">вкл белый лист</string>
+
+    <string name="pref_black_list">черный лист</string>
+    <string name="pref_black">вкл черный лист</string>
+
+
+
+    <string name="filter">Call Filter</string>
+
+    <string name="on_white_list">Abilita white list</string>
+    <string name="setting_white_list">Regolare la white list</string>
+
+    <string name="on_black_list">Attiva lista nera</string>
+    <string name="setting_black_list">Regolare la lista nera</string>
+
+
+
+    <string name="audioformat">formato di file audio</string>
+    <string name="setaudioformat">Selezionare il file audio formato di output</string>
+    <string name="changeaudioformat">Selezionare il formato del file di output audio</string>
+
+    <string name="gp3format">3GPP</string>
+    <string name="mp4format">MPEG-4</string>
+    <string name="AMR_NBformat">AMR_NB</string>
+
+    <string name="writeToDeveloper">Invia un\'email allo sviluppatore</string>
+    <string name="send_to_dev">nviare lettere</string>
+    <string name="theme_message">argomento</string>
+
+
+    <!--#######################################################################################-->
+
+    <string name="langOfSystem_pref">default</string>
+
+    <string name="pref_pathview">pathview</string>
+    <string name="customPref">customPref</string>
+
+    <string name="pref_email">адрес мэйла</string>
+    <string name="pref_email_pw">пароль мэйла</string>
+    <string name="pref_email_dest">адрес мэйла на который слать</string>
+    <string name="pref_emailsettingskey">пересылать ли на мэйл</string>
+
+    <string name="app_name" textsize="6dp">chiamare registratore
+
+    </string>
+
+    <string name="reccalls">Bene nella versione pagata. Le telefonate giù scritte guarda nella cartella CALL_RECORDS sdcard</string>
+    <string name="callrecords">Le telefonate giù scritte</string>
+
+    <string name="settings">Impostazioni</string>
+
+    <string name="stateOfrecord">Condizione di record:</string>
+
+    <string name="sound">Scelga una sorgente di registrazione sana:</string>
+
+    <string name="voice">Il record di telefonata dalla linea (è sostenuto non da tutti i modelli di telefoni)</string>
+    <string name="mic">Il record con uso del microfono incorporato (l\'udibilità cattiva dell\'interlocutore è possibile)</string>
+
+    <string name="comm">La corrente da un microfono "sarà la terra" da audio tramite VoIP (se è disponibile))</string>
+
+
+
+
+    <string name="open">aprire</string>
+
+    <string name="delete">rimuovere</string>
+    <string name="cancel">cancellazione</string>
+    <string name="icon">Icon</string>
+    <string name="exit">produzione</string>
+
+    <string name="ist_rec_sound">la fonte della registrazione suono</string>
+    <string name="inst_ist_rec_sound">stabilire la fonte della registrazione suono</string>
+    <string name="change_ist_rec_sound">selezionare la sorgente di registrazione sonora</string>
+
+
+    <!--#######################################################################################-->
+    <string name="emailSettings">Configurazione di un Gateway</string>
+    <string name="email">Indirizzo gateway</string>
+    <string name="emailaction">PO Indirizzo di casella su Gmail</string>
+    <string name="dialogemail">Immettere l\'indirizzo dove potrete ricevere messaggi</string>
+    <string name="emailpw">gateway di password</string>
+    <string name="emailactionpw">La password per la casella di posta su Gmail</string>
+    <string name="dialogemailpw">mmettere la password</string>
+    <string name="emaildest">Destinazione</string>
+    <string name="emailactiondest">Il tuo indirizzo e-mail (può essere l\'indirizzo del gateway)</string>
+    <string name="dialogemaildest">Immettere l\'indirizzo dove potrete ricevere messaggi</string>
+    <string name="emailkey">Inoltra a e-mail?</string>
+
+    <string name="path">posizione dei file</string>
+    <string name="pathText">selezionare la cartella</string>
+    <string name="pathText_manual">Specificare il percorso manualmente</string>
+
+    <string name="LangTitle">lingua</string>
+    <string name="LangDialogTitle">Scegli la lingua:</string>
+    <string name="LangSummary">È necessario riavviare l\'applicazione per l\'adozione delle modifiche</string>
+    <string name="langOfSystem">Per impostazione predefinita</string>
+
+    <string name="yesAnswer">Sì</string>
+    <string name="noAnswer">No</string>
+    <string name="ok">rovere</string>
+    <string name="create_new_folder">nuova cartella</string>
+    <string name="name_new_folder">il nome della cartella</string>
+    <string name="fail_create">Errore durante la creazione</string>
+
+    <string name="uplink">Registrazione solo la tua voce</string>
+    <string name="downlink">Record discorso unico interlocutore</string>
+
+
+    <!--#######################################################################################-->
+
+
+    <string name="deleteAll">Rimuovere tutti i file</string>
+    <string name="is_ServiceWork">Состояние записи</string>
+    <string name="pref_openmode">Режим открытия</string>
+    <string name="play_str">PLAY</string>
+    <string name="pause_str">PAUSE</string>
+
+</resources>
+

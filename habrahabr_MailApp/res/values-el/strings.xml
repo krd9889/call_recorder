@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="one_call">Δωρεάν χρήση της περιόδου του προγράμματος είναι πάνω. Προς το παρόν, η δωρεάν έκδοση του προγράμματος μπορεί να εγγραφεί μόνο μία κλήση. Καταγραφή όλων των κλήσεων που διατίθενται στην πληρωμένη έκδοση του προγράμματος. Παλιά αρχεία σας των συνομιλιών δεν διαγράφονται. Αυτά τα αρχεία μπορεί να βρίσκονται στον φάκελο "CALL_RECORDS" (προεπιλογή) ή άλλο καθορισμένο φάκελο σας νωρίτερα.</string>
+    <string name="other_settings">Άλλα</string>
+
+    <string name="up_priority">Αύξηση προτεραιότητας</string>
+    <string name="stroke_cond">Προβολή ειδοποίησης</string>
+    <string name="pref_stroke_cond">уведомление в строке состояния</string>
+    <!--#######################################################################################-->
+
+
+    <string name="errorOfDisplay">Πρόβλημα προβολής</string>
+    <string name="errorTryFindFileOnSdcard">Έλεγξε αν υπάρχουν εγγραφές στην κάρτα μνήμης</string>
+    <string name="pref_hard_menu">есть ли кновка меню</string>
+
+
+    <!--#######################################################################################-->
+    <string name="errorInitView">Το αρχείο δεν βρέθηκε! Πιθανόν έχει διαγραφεί.</string>
+
+    <string name="error">Σφάλμα ρύθμισης μορφής ή πηγής ήχου! Άλλαξε σε:</string>
+    <string name="errorAllCrash">Σφάλμα! Πιθανόν η εγγραφή κλήσεων δεν είναι δυνατή στη συσκευή σου!</string>
+
+
+    <string name="search">Αναζήτηση</string>
+    <string name="rate">Βαθμολόγησες την εφαρμογή στο Γκούγκλ πλέι;</string>
+    <string name="pref_rating">оценка</string>
+
+    <!--#######################################################################################-->
+    <string name="pref_audioformat">формат_аудио</string>
+    <string name="pref_white_list">белый лист</string>
+    <string name="pref_white">вкл белый лист</string>
+
+    <string name="pref_black_list">черный лист</string>
+    <string name="pref_black">вкл черный лист</string>
+
+
+
+    <string name="filter">Φίλτρο κλήσεων</string>
+
+    <string name="on_white_list">Επιτρέψτε τη λευκή λίστα</string>
+    <string name="setting_white_list">Διαχείριση λευκής λίστας</string>
+
+    <string name="on_black_list">Επιτρέψτε τη μαύρη λίστα</string>
+    <string name="setting_black_list">Διαχείριση μαύρης λίστας</string>
+
+
+
+    <string name="audioformat">Μορφή αρχείου ήχου</string>
+    <string name="setaudioformat">Επιλογή μορφής ήχου</string>
+    <string name="changeaudioformat">Επιλογή μορφής</string>
+    <string name="gp3format">3gpp</string>
+    <string name="mp4format">Mpeg-4</string>
+    <string name="AMR_NBformat">Amr_nb</string>
+
+
+
+    <string name="writeToDeveloper">Μήνυμα στον προγραμματιστή</string>
+    <string name="send_to_dev">Αποστολή μηνύματος...</string>
+    <string name="theme_message">Θέμα</string>
+
+
+    <!--#######################################################################################-->
+    <string name="app_name" textsize="6dp">Εγγραφέας κλήσεων</string>
+    <string name="callrecords">Καταγραμμένες κλήσεις</string>
+    <string name="stateOfrecord">Κατάσταση εγγραφής: </string>
+
+
+    <string name="settings">Ρυθμίσεις</string>
+
+    <string name="sound">Επιλέξτε την πηγή της καταγραφής του ήχου:</string>
+
+    <string name="voice">Εγγραφή με την χρήση της γραμμής (δεν υποστηρίζεται από όλες τις συσκευές)</string>
+    <string name="mic">Εγγραφή με την χρήση του μικροφώνου (πιθανή χαμηλή ακουστικότητα του συνομιλητή)</string>
+    <string name="comm">Εγγραφή με την χρήση του μικροφώνου με βελτίωση διαδικτύου (αν είναι διαθέσιμο)</string>
+
+
+    <string name="open">Άνοιγμα</string>
+    <string name="delete">Διαγραφή</string>
+    <string name="cancel">Ακύρωση</string>
+    <string name="icon">Εικονίδιο</string>
+    <string name="exit">Έξοδος</string>
+
+    <string name="ist_rec_sound">Πηγή του ήχου εγγραφής</string>
+    <string name="inst_ist_rec_sound">Επιλογή πηγής εγγραφής</string>
+    <string name="change_ist_rec_sound">Επιλογή πηγής</string>
+
+    <!--#######################################################################################-->
+    <string name="emailSettings">Διαμόρφωση πύλης</string>
+    <string name="emailkey">Προώθηση σε ηλεκτρονικό ταχυδρομείο;</string>
+    <string name="email">Διεύθυνση πύλης</string>
+    <string name="emailaction">Διεύθυνση ηλεκτρονικού ταχυδρομείου</string>
+    <string name="dialogemail">Εισαγωγή διεύθυνσης</string>
+    <string name="emailpw">Κωδικός πύλης</string>
+    <string name="emailactionpw">Κωδικός ηλεκτρονικού ταχυδρομείου</string>
+    <string name="dialogemailpw">Εισαγωγή κωδικού</string>
+    <string name="emaildest">Προορισμός</string>
+    <string name="emailactiondest">Διεύθυνση ηλεκτρονικού ταχυδρομείου (μπορεί να είναι η διεύθυνση πύλης)</string>
+    <string name="dialogemaildest">Εισαγωγή διεύθυνσης</string>
+
+
+    <string name="path">Θέση των αρχείων</string>
+    <string name="pathText">Επιλογή φακέλου</string>
+    <string name="pathText_manual">Καθορίστε την διαδρομή χειροκίνητα</string>
+
+    <string name="LangTitle">Γλώσσα</string>
+    <string name="LangSummary">Πρέπει να επανεκκινήσεις την εφαρμογή για να ισχύουν οι αλλαγές</string>
+    <string name="LangDialogTitle">Επιλογή γλώσσας:</string>
+    <string name="langOfSystem">Προεπιλογή</string>
+
+
+    <string name="yesAnswer">Ναι</string>
+    <string name="noAnswer">Όχι</string>
+    <string name="ok">Εντάξει</string>
+    <string name="create_new_folder">Νέος φάκελος</string>
+    <string name="name_new_folder">Όνομα φακέλου</string>
+    <string name="fail_create">Σφάλμα δημιουργίας</string>
+
+    <string name="uplink">Εγγραφή μόνο της φωνής σου</string>
+    <string name="downlink">Εγγραφή μόνο του συνομιλητή</string>
+
+
+    <!--#######################################################################################-->
+
+    <string name="deleteAll">Διαγραφή όλων</string>
+
+    <!--#######################################################################################-->
+
+    <string name="langOfSystem_pref">default</string>
+
+    <string name="pref_pathview">pathview</string>
+    <string name="customPref">customPref</string>
+
+    <string name="pref_email">адрес мэйла</string>
+    <string name="pref_email_pw">пароль мэйла</string>
+    <string name="pref_email_dest">адрес мэйла на который слать</string>
+    <string name="pref_emailsettingskey">пересылать ли на мэйл</string>
+
+
+    <string name="is_ServiceWork">Состояние записи</string>
+    <string name="pref_openmode">Режим открытия</string>
+    <string name="play_str">PLAY</string>
+    <string name="pause_str">PAUSE</string>
+
+
+</resources>
+

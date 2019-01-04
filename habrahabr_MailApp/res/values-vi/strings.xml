@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="one_call">Miễn phí sử dụng thời gian chương trình là hơn. Tại thời điểm này, phiên bản miễn phí của chương trình có thể được ghi nhận chỉ có một cuộc gọi. Ghi âm của tất cả các cuộc gọi có sẵn trong các phiên bản trả tiền của chương trình. Hồ sơ cũ của bạn về cuộc trò chuyện sẽ không bị xóa. Những tập tin này có thể được tìm thấy trong thư mục "CALL_RECORDS" (mặc định) hoặc thư mục khác được quy định với bạn trước đó.</string>
+    <string name="other_settings">Ẩn các phím tắt:</string>
+
+    <string name="up_priority">Tăng ưu tiên của dịch vụ</string>
+    <string name="stroke_cond">Hiển thị thông báo</string>
+    <string name="pref_stroke_cond">уведомление в строке состояния</string>
+    <!--#######################################################################################-->
+    <string name="errorOfDisplay">màn hình hiển thị lỗi</string>
+    <string name="errorTryFindFileOnSdcard">Kiểm tra xem có một tập tin trên thẻ nhớ của bạn</string>
+    <string name="pref_hard_menu">есть ли кновка меню</string>
+    <!--#######################################################################################-->
+    <string name="pref_pro">хочет про версию?</string>
+    <string name="pro_version">Tôi không muốn mua phiên bản trả tiền của chương trình (Tùy chọn: mật khẩu đăng nhập, ẩn các tập tin âm thanh, danh bạ hình ảnh, tự động xóa, thêm ghi chú cho các cuộc gọi, chế độ ghi âm dẫn trong cuộc gọi)</string>
+
+
+    <!--#######################################################################################-->
+    <string name="errorInitView">File không tìm thấy. Có thể nó đã bị xóa.</string>
+    <string name="error">Lỗi thiết lập định dạng hoặc nguồn! Được thay đổi thành:</string>
+    <string name="errorAllCrash">Lỗi! Có thể ghi âm cuộc gọi không thể có trên điện thoại của bạn!</string>
+
+    <string name="search">tìm kiếm</string>
+    <string name="rate">Bạn đánh giá các ứng dụng trong Google Play?</string>
+    <string name="pref_rating">оценка</string>
+
+<!--#######################################################################################-->
+    <string name="pref_audioformat">формат_аудио</string>
+    <string name="pref_white_list">белый лист</string>
+    <string name="pref_white">вкл белый лист</string>
+
+    <string name="pref_black_list">черный лист</string>
+    <string name="pref_black">вкл черный лист</string>
+
+
+
+    <string name="filter">gọi Lọc</string>
+
+    <string name="on_white_list">Cho phép danh sách trắng</string>
+    <string name="setting_white_list">Điều chỉnh danh sách trắng</string>
+
+    <string name="on_black_list">Cho phép danh sách đen</string>
+    <string name="setting_black_list">Điều chỉnh danh sách đen</string>
+
+
+
+    <string name="audioformat">định dạng tập tin âm thanh</string>
+    <string name="setaudioformat">Chọn định dạng đầu ra tập tin âm thanh</string>
+    <string name="changeaudioformat">Chọn định dạng của tập tin âm thanh đầu ra</string>
+
+    <string name="gp3format">3GPP</string>
+    <string name="mp4format">MPEG-4</string>
+    <string name="AMR_NBformat">AMR_NB</string>
+
+    <string name="writeToDeveloper">email phát triển</string>
+    <string name="send_to_dev">gửi thư</string>
+    <string name="theme_message">chủ đề</string>
+
+
+ <!--#######################################################################################-->
+    <string name="app_name" textsize="6dp">ghi âm cuộc gọi</string>
+
+    <string name="callrecords">các cuộc gọi được ghi lại</string>
+
+    <string name="settings">cài đặt</string>
+
+    <string name="stateOfrecord">Nhà nước của hồ sơ: </string>
+
+    <string name="sound">Chọn nguồn của bản ghi âm:</string>
+
+    <string name="voice">Dòng (không được hỗ trợ bởi tất cả các điện thoại)</string>
+    <string name="mic">Micro (có thể đồng hành âm thanh xấu)</string>
+    <string name="comm">Dòng âm thanh được tối ưu hóa cho VoIP</string>
+
+
+
+
+    <string name="open">mở</string>
+
+    <string name="delete">Hủy bỏ</string>
+    <string name="cancel">lưng</string>
+    <string name="icon">Icon</string>
+    <string name="exit">đầu ra</string>
+
+    <string name="ist_rec_sound">nguồn thu</string>
+    <string name="inst_ist_rec_sound">Bộ nguồn của bản ghi âm</string>
+    <string name="change_ist_rec_sound">Chọn nguồn của bản ghi âm</string>
+
+<!--#######################################################################################-->
+    <string name="emailSettings">Cấu hình một Gateway</string>
+    <string name="email">Gateway Địa chỉ</string>
+    <string name="emailaction">PO Box địa chỉ trên gmail</string>
+    <string name="dialogemail">Nhập địa chỉ nơi bạn sẽ nhận được tin nhắn</string>
+    <string name="emailpw">mật khẩu gateway</string>
+    <string name="emailactionpw">Mật khẩu cho hộp thư trên gmail</string>
+    <string name="dialogemailpw">nhập mật khẩu</string>
+    <string name="emaildest">điểm đến</string>
+    <string name="emailactiondest">Địa chỉ email của bạn (có thể là địa chỉ gateway)</string>
+    <string name="dialogemaildest">Nhập địa chỉ nơi bạn sẽ nhận được tin nhắn</string>
+    <string name="emailkey">Chuyển tiếp email?</string>
+
+    <string name="path">vị trí của các tập tin</string>
+    <string name="pathText">chọn thư mục</string>
+    <string name="pathText_manual">Chỉ định đường dẫn bằng tay</string>
+
+    <string name="LangTitle">ngôn ngư</string>
+    <string name="LangDialogTitle">Chọn ngôn ngữ:</string>
+    <string name="LangSummary">Bạn phải khởi động lại ứng dụng cho việc thông qua các sửa đổi</string>
+    <string name="langOfSystem">theo mặc định</string>
+
+    <string name="yesAnswer">vâng</string>
+    <string name="noAnswer">không</string>
+    <string name="ok">sồi</string>
+    <string name="create_new_folder">Thư mục mới</string>
+    <string name="name_new_folder">tên thư mục</string>
+    <string name="fail_create">lỗi tạo</string>
+
+    <string name="uplink">Ghi âm giọng nói của bạn chỉ</string>
+    <string name="downlink">Ghi âm lời nói chỉ đối thoại</string>
+
+
+<!--#######################################################################################-->
+
+    <string name="langOfSystem_pref">default</string>
+
+    <string name="pref_pathview">pathview</string>
+    <string name="customPref">customPref</string>
+
+    <string name="pref_email">адрес мэйла</string>
+    <string name="pref_email_pw">пароль мэйла</string>
+    <string name="pref_email_dest">адрес мэйла на который слать</string>
+    <string name="pref_emailsettingskey">пересылать ли на мэйл</string>
+
+    <string name="deleteAll">Hủy bỏ tất cả</string>
+    <string name="is_ServiceWork">Состояние записи</string>
+    <string name="pref_openmode">Режим открытия</string>
+    <string name="play_str">PLAY</string>
+    <string name="pause_str">PAUSE</string>
+
+
+</resources>
+

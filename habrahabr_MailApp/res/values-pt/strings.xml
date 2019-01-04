@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="one_call">Utilização gratuita do período do programa é longo. No momento, a versão gratuita do programa pode ser gravado apenas uma chamada. Gravação de todas as chamadas disponíveis na versão paga do programa. Seus antigos registros de conversas não são excluídos. Esses arquivos podem ser encontrados na pasta "CALL_RECORDS" (padrão) ou outra pasta especificada mais cedo.</string>
+    <string name="other_settings">Ocultar atalhos:</string>
+
+    <string name="up_priority">Aumenta a prioridade de serviço</string>
+    <string name="stroke_cond">Mostrar notificação</string>
+    <string name="pref_stroke_cond">уведомление в строке состояния</string>
+    <!--#######################################################################################-->
+    <string name="errorOfDisplay">indicação de erro</string>
+    <string name="errorTryFindFileOnSdcard">Verifique se existe um arquivo no cartão de memória</string>
+    <string name="pref_hard_menu">есть ли кновка меню</string>
+    <!--#######################################################################################-->
+    <string name="pref_pro">хочет про версию?</string>
+    <string name="pro_version">Eu não quero comprar a versão paga do programa (Opções: senha login, esconder arquivos de áudio, fotos, contatos auto-excluir, adicionar notas de chamadas, modo de gravação manual durante uma chamada)</string>
+
+
+    <!--#######################################################################################-->
+    <string name="errorInitView">Arquivo não encontrado! Talvez ele foi excluído.</string>
+    <string name="error">Formato estabelecer erro ou fonte! É alterada para:</string>
+    <string name="errorAllCrash">Erro! Talvez chamar de gravação não for possível no seu aparelho!</string>
+
+    <string name="search">Pesquisar</string>
+    <string name="rate">Você classificaria o aplicativo no Google Play?</string>
+    <string name="pref_rating">оценка</string>
+
+    <!--#######################################################################################-->
+
+
+    <string name="pref_audioformat">формат_аудио</string>
+    <string name="pref_white_list">белый лист</string>
+    <string name="pref_white">вкл белый лист</string>
+
+    <string name="pref_black_list">черный лист</string>
+    <string name="pref_black">вкл черный лист</string>
+
+
+
+    <string name="filter">Call Filter</string>
+
+    <string name="on_white_list">Ativar lista branca</string>
+    <string name="setting_white_list">Ajuste a lista branca</string>
+
+    <string name="on_black_list">Ativar lista negra</string>
+    <string name="setting_black_list">Ajuste a lista negra</string>
+
+
+
+    <string name="audioformat">formato de arquivo de áudio</string>
+    <string name="setaudioformat">Selecione o arquivo de áudio formato de saída</string>
+    <string name="changeaudioformat">Escolha o formato do arquivo de saída de áudio</string>
+
+    <string name="gp3format">3GPP</string>
+    <string name="mp4format">MPEG-4</string>
+    <string name="AMR_NBformat">AMR_NB</string>
+
+    <string name="writeToDeveloper">E-mail do desenvolvedor</string>
+    <string name="send_to_dev">Enviar cartas</string>
+    <string name="theme_message">tópico</string>
+
+
+    <!--#######################################################################################-->
+
+    <string name="app_name" textsize="6dp">Gravação de Chamadas</string>
+
+    <string name="callrecords">chamadas gravadas</string>
+
+    <string name="settings">configurações</string>
+
+    <string name="stateOfrecord">Estado do disco:</string>
+
+    <string name="sound">Selecione a fonte de gravação de som:</string>
+
+    <string name="voice">Linha (não suportado por todos os telefones)</string>
+    <string name="mic">Microfone (possível companheiro de áudio ruim)</string>
+    <string name="comm">O fluxo de áudio é otimizado para VoIP</string>
+
+
+
+
+    <string name="open">aberto</string>
+
+    <string name="delete">remover</string>
+    <string name="cancel">cancelamento</string>
+    <string name="icon">Icon</string>
+    <string name="exit">saída</string>
+
+    <string name="ist_rec_sound">fonte de gravação</string>
+    <string name="inst_ist_rec_sound">Define a fonte de gravação de som</string>
+    <string name="change_ist_rec_sound">Seleccione a fonte da gravação de som</string>
+
+    <!--#######################################################################################-->
+    <string name="emailSettings">Configurando um gateway</string>
+    <string name="email">gateway Address</string>
+    <string name="emailaction">PO Box endereço no gmail</string>
+    <string name="dialogemail">Digite o endereço de onde você vai receber mensagens</string>
+    <string name="emailpw">porta de entrada de senha</string>
+    <string name="emailactionpw">A senha para a caixa de correio no gmail</string>
+    <string name="dialogemailpw">Digite a senha</string>
+    <string name="emaildest">destino</string>
+    <string name="emailactiondest">O seu endereço de e-mail (pode ser o endereço do gateway)</string>
+    <string name="dialogemaildest">Digite o endereço de onde você vai receber mensagens</string>
+    <string name="emailkey">Encaminhar e-mail?</string>
+
+    <string name="path">localização dos arquivos</string>
+    <string name="pathText">Selecione a pasta</string>
+    <string name="pathText_manual">Especifique o caminho manualmente</string>
+
+    <string name="LangTitle">linguagem</string>
+    <string name="LangDialogTitle">Escolha o idioma:</string>
+    <string name="LangSummary">Você deve reiniciar o aplicativo para a aprovação das alterações</string>
+    <string name="langOfSystem">por padrão</string>
+
+    <string name="yesAnswer">sim</string>
+    <string name="noAnswer">não</string>
+    <string name="ok">carvalho</string>
+    <string name="create_new_folder">New Folder</string>
+    <string name="name_new_folder">o nome da pasta</string>
+    <string name="fail_create">erro ao criar</string>
+
+    <string name="uplink">Gravar apenas sua voz</string>
+    <string name="downlink">Grave discurso único interlocutor</string>
+
+
+    <!--#######################################################################################-->
+
+    <string name="langOfSystem_pref">default</string>
+
+    <string name="pref_pathview">pathview</string>
+    <string name="customPref">customPref</string>
+
+    <string name="pref_email">адрес мэйла</string>
+    <string name="pref_email_pw">пароль мэйла</string>
+    <string name="pref_email_dest">адрес мэйла на который слать</string>
+    <string name="pref_emailsettingskey">пересылать ли на мэйл</string>
+
+    <string name="deleteAll">Remova todos os</string>
+    <string name="is_ServiceWork">Состояние записи</string>
+    <string name="pref_openmode">Режим открытия</string>
+    <string name="play_str">PLAY</string>
+    <string name="pause_str">PAUSE</string>
+
+
+</resources>
+
